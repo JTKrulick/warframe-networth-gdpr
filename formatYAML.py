@@ -9,13 +9,12 @@ def properYMALFormat (inputFile="1296211_throtecutter_GDPR_Warframe.txt",outputF
     if os.path.isfile(outputFile):
         return yaml.load(open(outputFile,'r'))
 
-    startingFile=open("1296211_throtecutter_GDPR_Warframe.txt")
-    ymalFileWrite=open("1296211_throtecutter_GDPR_Warframe.ymal",'w')
+    startingFile=open(inputFile)
+    ymalFileWrite=open(outputFile,'w')
     for line in startingFile:
     
         #Tickets can take multiple lines messing things up.  
         #TODO Need to make it work or confirm that it's at the end
-        print repr(line[0:7])
         if line[0:7] == "TICKETS":
             break
     
