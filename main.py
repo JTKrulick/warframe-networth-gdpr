@@ -2,14 +2,14 @@ import argparse
 
 import formatYAML
 import wfMarketData
-
+#import calculateNetValue
 def main():
 
     parser = argparse.ArgumentParser(description='Warframe net worth calculator')
     parser.add_argument('-i','--inputFile', help='Gets the txt file given by DE', required=True)
     parser.add_argument('-y','--yamlSaveLocation', help='File to save proper YAML from data', required=False)
     parser.add_argument('-o','--outputFile', help='Output of results', required=False,default="results/results.tsv")
-    parser.add_argument('-w','--wfMarket', help='stores Warframe.Market data', required=False,default="data/warframeMarketData.pickle")
+    parser.add_argument('-w','--wfMarket', help='stores Warframe.Market data', required=False,default="data/item_data.pickle")
     
     args = vars(parser.parse_args())
     print args
@@ -18,16 +18,25 @@ def main():
     if yamlSaveLocation == None:
         yamlSaveLocation = inputFile.split(".")[0]+".yaml"
     outputFile =args['outputFile'] 
+    wfMarket = args['wfMarket']
 
-
-      
-    yamlResult = formatYAML.properYMALFormat(inputFile=inputFile,outputFile=outputFile)
+    yamlResult = formatYAML.properYMALFormat(inputFile=inputFile,outputFile=yamlSaveLocation)
      
-    wfMarketData.getAllItems()
+    dictOfItems = wfMarketData.getAllItems(wfmFile = wfMarket)
+    
+    
+    #get unranked mods
+    #add ranked mods to that list
+    #loop through pricing them All? should be there?
 
+    #loop through items, if they have a price include it
 
+    #loop though blueprints, if it has a price include it
 
+    #AYATAN SCULPTURES
 
+    #Rivens?
+    
 if __name__ == "__main__":
     main()
 
