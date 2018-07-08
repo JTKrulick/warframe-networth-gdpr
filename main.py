@@ -2,7 +2,7 @@ import argparse
 
 import formatYAML
 import wfMarketData
-#import calculateNetValue
+import calculateNetValue
 def main():
 
     parser = argparse.ArgumentParser(description='Warframe net worth calculator')
@@ -12,7 +12,6 @@ def main():
     parser.add_argument('-w','--wfMarket', help='stores Warframe.Market data', required=False,default="data/item_data.pickle")
     
     args = vars(parser.parse_args())
-    print args
     inputFile=args['inputFile']
     yamlSaveLocation =args['yamlSaveLocation']
     if yamlSaveLocation == None:
@@ -24,7 +23,7 @@ def main():
      
     dictOfItems = wfMarketData.getAllItems(wfmFile = wfMarket)
     
-    
+    calculateNetValue.calculateNetValue(dictOfItems, yamlResult, outputFile)    
     #get unranked mods
     #add ranked mods to that list
     #loop through pricing them All? should be there?

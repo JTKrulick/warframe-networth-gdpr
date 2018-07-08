@@ -46,5 +46,5 @@ def is_item_a_mod(itemUrlValue=None):
     return False
 
 if __name__ == "__main__":
-    getAllItems()
+    print getAllItems()
 
