@@ -43,6 +43,13 @@ def calculateNetValue(itemPriceDict, yamlDict, outputfile, minCost=0):
                 continue
             print blueprint,"\t" ,yamlDict['blueprints'][blueprint],"\t",itemPriceDict[blueprint],"\t" ,yamlDict['blueprints'][blueprint]*itemPriceDict[blueprint]
             totalPlatValue+=yamlDict['blueprints'][blueprint]*itemPriceDict[blueprint]
+        #Frame blueprints lack the word blueprint, so make sure to check for them
+        elif blueprint+" blueprint" in itemPriceDict:
+            blueprintBlueprintPrice = blueprint+" blueprint"
+            if yamlDict['blueprints'][blueprint]==0 or itemPriceDict[blueprintBlueprintPrice]<=minCost:
+                continue
+            print blueprintBlueprintPrice,"\t" ,yamlDict['blueprints'][blueprint],"\t",itemPriceDict[blueprintBlueprintPrice],"\t" ,yamlDict['blueprints'][blueprint]*itemPriceDict[blueprintBlueprintPrice]
+            totalPlatValue+=yamlDict['blueprints'][blueprint]*itemPriceDict[blueprintBlueprintPrice]
         else:
             listOfItemsWithoutPrices.append(blueprint)
 

@@ -17,25 +17,21 @@ def getAllItems(wfmFile='data/item_data.pickle'):
         print count, len(payload)
         value =getOneItemValue(item['url_name'])
         fullDict[item["item_name"].lower()]=value
-        time.sleep(.2)
+        time.sleep(.1)
     pickle.dump( fullDict, open( wfmFile, "wb" ) )
     return fullDict
 
 def getOneItemValue(itemUrlValue=None):
-    value = "https://api.warframe.market/v1/items/"+itemUrlValue+"/statistics"
+    value = "https://api.warframe.market/v1/items/"+itemUrlValue+"/orders"
     r = requests.get(value)
     json_result = r.json()
-    value = json_result['payload']['statistics']['90days']
-    count = 0
-    median = 0
-    minimum=0
-    for result in value:
-        count+=result['volume']
-        median+=result['median']*result['volume']
-        minimum=minimum+result['min_price']*result['volume']
-    if count==0:
+    print "ASDSDAASDASDASD",itemUrlValue, r, value
+    sellValues= [item['platinum'] for item in json_result['payload']['orders'] if item['order_type']=='sell']
+    sellValues.sort()
+    if len(sellValues)==0:
         return 0
-    return median/count
+    fewSellVal = sellValues[0:10]
+    return sum(fewSellVal)/len(fewSellVal)
 
 #Currently unused
 def is_item_a_mod(itemUrlValue=None):
