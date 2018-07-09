@@ -10,6 +10,7 @@ def main():
     parser.add_argument('-y','--yamlSaveLocation', help='File to save proper YAML from data', required=False)
     parser.add_argument('-o','--outputFile', help='Output of results', required=False,default="results/results.tsv")
     parser.add_argument('-w','--wfMarket', help='stores Warframe.Market data', required=False,default="data/item_data.pickle")
+    parser.add_argument('-m','--minval', help='sets a minimum value, to remove all the common 1 plat items', required=False,default=0)
     
     args = vars(parser.parse_args())
     inputFile=args['inputFile']
@@ -18,12 +19,13 @@ def main():
         yamlSaveLocation = inputFile.split(".")[0]+".yaml"
     outputFile =args['outputFile'] 
     wfMarket = args['wfMarket']
+    mincost = int(args['minval'])
 
     yamlResult = formatYAML.properYMALFormat(inputFile=inputFile,outputFile=yamlSaveLocation)
      
     dictOfItems = wfMarketData.getAllItems(wfmFile = wfMarket)
     
-    calculateNetValue.calculateNetValue(dictOfItems, yamlResult, outputFile)    
+    calculateNetValue.calculateNetValue(dictOfItems, yamlResult, outputFile,minCost=int(mincost))    
     #get unranked mods
     #add ranked mods to that list
     #loop through pricing them All? should be there?

@@ -29,12 +29,10 @@ def properYMALFormat (inputFile=None,outputFile=None):
             if newline[0]!='\t':
                 for key in ayatanSculptureDict:
                     keylist = key.split(" ")
-                    print keylist
                     newkey= " ".join([keylist[1],keylist[0],keylist[2]])
                     ymalFileWrite.write("    "+newkey+" : "+ str(ayatanSculptureDict[key])+"\r\n")
                 ayatanScuptureArea=False
             else:
-                print "LINE",newline
                 if "sculpture" in newline:
                     if newline.split(":")[0].strip() in ayatanSculptureDict:
                         ayatanSculptureDict[newline.split(":")[0].strip()] = ayatanSculptureDict[newline.split(":")[0].strip()] + 1
