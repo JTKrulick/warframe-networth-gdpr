@@ -25,11 +25,11 @@ def getOneItemValue(itemUrlValue=None):
     value = "https://api.warframe.market/v1/items/"+itemUrlValue+"/orders"
     r = requests.get(value)
     json_result = r.json()
-    sellValues= [item['platinum'] for item in json_result['payload']['orders'] if item['order_type']=='sell']
+    sellValues= [item['platinum'] for item in json_result['payload']['orders'] if item['order_type']=='sell' and item['user']['status']=='ingame' and ('mod_rank' not in item or item['mod_rank']<3)]
     sellValues.sort()
     if len(sellValues)==0:
         return 0
-    fewSellVal = sellValues[0:10]
+    fewSellVal = sellValues[0:3]
     return sum(fewSellVal)/len(fewSellVal)
 
 #Currently unused

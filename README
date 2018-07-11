@@ -1,0 +1,48 @@
+This is a python, command line, tool to generate your net worth in Warframe, using the information provided from an information request from DE.
+
+As DE does not currently provide an API for progamatically acquiring all owned items.  
+It can be difficult to determine what is valuable.
+However, in the GDPR requested information, all items owned by the player are given.  
+
+Quick Start:
+    Request GDPR data from https://digitalextremes.zendesk.com/hc/en-us/requests/new?ticket_form_id=50894
+        From the catagory menu, choose "GDPR - General Data Protection Regulation"
+    Install python
+    Pip install yaml requests 
+
+    Simple example for all items:
+        python main.py --inputFile PATH/TO/######_XXXXXXX_GDPR_Warframe.txt
+    To generate items worth more than 3 plat:
+        python main.py --inputFile PATH/TO/######_XXXXXXX_GDPR_Warframe.txt  --minval 3
+    Results are saved in ./results/results.tsv
+
+    Additional optinal flags :
+        --yamlSaveLocation PATH/TO/FILE : provides the properly formatted generated YAML file, if the file exists, uses that file instead of generting
+        --outputFile PATH/TO/FILE : Allows results to be saved elsewhere.  Defaults to result/results.tsv
+        --wfMarket PATH/TO/FILE : Uses item information file at specificed position.  If empty, generates a new file, using current data
+        --minval # : Sets a minimum required item value to show up
+        
+How it works
+    Hold everything else together - main.py
+        Collect command line inputs
+        Hold the program together
+
+    YAML compliance - formatYAML.py
+        The GDPR file nearly follows YAML.  
+        The file is modified and some names are changed to match Warframe.markets values.
+
+    Collect Warframe.market data - wfMarketData.py
+        The top 3 sell values of ingame player are averaged together (unranked if mods), for each of the ~2100 items
+        Limits collection to 3 times per second taking ~15 minutes if not cached
+
+    Combine - 
+        Combines the information into a single file and outputs it
+        Values below the required minval are discarded
+
+Current issues:
+    Ranked mods currently are ignored.  
+    Do to the format that DE provides, there are duplicate names in the yaml, causing overwriting.i
+
+Previous attempts
+    Using all people regarless of online status caused values to be ~20% lower than expected
+    Using median or averages caused primed items to be incorrected, due to their bimodal distribution (ranked and unranked)

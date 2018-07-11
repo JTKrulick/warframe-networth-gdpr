@@ -25,7 +25,7 @@ def main():
      
     dictOfItems = wfMarketData.getAllItems(wfmFile = wfMarket)
     
-    calculateNetValue.calculateNetValue(dictOfItems, yamlResult, outputFile,minCost=int(mincost))    
+    calculateNetValue.calculateNetValue(dictOfItems, yamlResult, outputfile=outputFile,minCost=int(mincost))    
     #get unranked mods
     #add ranked mods to that list
     #loop through pricing them All? should be there?
