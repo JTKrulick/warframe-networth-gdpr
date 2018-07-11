@@ -12,8 +12,8 @@ Quick Start:
 
     Simple example for all items:
         python main.py --inputFile PATH/TO/######_XXXXXXX_GDPR_Warframe.txt
-    To generate items worth more than 3 plat:
-        python main.py --inputFile PATH/TO/######_XXXXXXX_GDPR_Warframe.txt  --minval 3
+    To generate items worth more than 5 plat:
+        python main.py --inputFile PATH/TO/######_XXXXXXX_GDPR_Warframe.txt  --minval 5
     Results are saved in ./results/results.tsv
 
     Additional optinal flags :
@@ -33,7 +33,8 @@ How it works
 
     Collect Warframe.market data - wfMarketData.py
         The top 3 sell values of ingame player are averaged together (unranked if mods), for each of the ~2100 items
-        Limits collection to 3 times per second taking ~15 minutes if not cached
+        Ignores items that do not have sufficiently large selling volumes
+        Limits collection to 2.5 times per second taking ~15 minutes if not cached
 
     Combine - 
         Combines the information into a single file and outputs it

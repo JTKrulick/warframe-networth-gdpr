@@ -4,34 +4,34 @@ p1
 I2
 sVguardian derision
 p2
-I10
+I11
 sVneo d1 radiant
 p3
-I50
+I0
 sVtwin vipers wraith receivers
 p4
-I13
+I18
 sVtwin vipers wraith link
 p5
-I9
+I10
 sVoberon prime neuroptics
 p6
-I13
+I16
 sVloki prime systems
 p7
-I166
+I174
 sVfrostbite
 p8
 I5
 sVvirtuos null
 p9
-I40
+I0
 sVsheev blade
 p10
-I15
+I16
 sVpyrana prime set
 p11
-I86
+I83
 sVlith n3 exceptional
 p12
 I0
@@ -40,7 +40,7 @@ p13
 I0
 sVrubedo-lined barrel
 p14
-I4
+I3
 sVaxi v5 exceptional
 p15
 I0
@@ -52,28 +52,28 @@ p17
 I3
 sVshotgun savvy
 p18
-I6
+I0
 sVaxi b1 flawless
 p19
 I0
 sVarcane coil mag helmet
 p20
-I196
+I243
 sVfatal teleport
 p21
-I14
+I19
 sVcrimson dervish
 p22
-I11
+I10
 sVspare parts
 p23
-I3
+I0
 sVsheev blueprint
 p24
-I8
+I13
 sVnami skyla prime blade
 p25
-I16
+I17
 sVlith v1 flawless
 p26
 I0
@@ -85,10 +85,10 @@ p28
 I0
 sVscindo prime set
 p29
-I67
+I66
 sVaxi v2 radiant
 p30
-I40
+I0
 sVrising skill
 p31
 I0
@@ -100,61 +100,61 @@ p33
 I5
 sVpilfering swarm
 p34
-I15
+I16
 sVfomorian accelerant
 p35
-I12
+I9
 sVlith z1 exceptional
 p36
 I0
 sVprimed fever strike
 p37
-I84
+I86
 sVaxi h1 intact
 p38
 I0
 sVexodia force
 p39
-I97
+I100
 sVastral autopsy
 p40
-I114
+I125
 sVtwirling spire
 p41
 I9
 sVfurax wraith set
 p42
-I18
+I17
 sVneo t1 radiant
 p43
 I0
 sVarcane phoenix ember helmet
 p44
-I71
+I73
 sVstatic alacrity (staticor)
 p45
-I9
+I0
 sVheavy caliber
 p46
-I17
+I19
 sVlith k1 intact
 p47
 I0
 sVspring-loaded blade
 p48
-I139
+I101
 sVbanshee prime neuroptics
 p49
 I2
 sVlatron prime stock
 p50
-I9
+I11
 sVmortal conduct
 p51
-I10
+I0
 sVreaping spiral
 p52
-I2
+I0
 sVhydraulic crosshairs
 p53
 I4
@@ -169,7 +169,7 @@ p56
 I0
 sVrift strike
 p57
-I6
+I9
 sVneo b5 flawless
 p58
 I0
@@ -181,16 +181,16 @@ p60
 I0
 sVpower drift
 p61
-I5
+I8
 sVtainted clip
 p62
-I2
+I1
 sVswirling tiger
 p63
-I2
+I0
 sVagility drift
 p64
-I3
+I2
 sVvectis prime barrel
 p65
 I10
@@ -202,10 +202,10 @@ p67
 I0
 sVgleaming blight
 p68
-I12
+I13
 sVbraton vandal receiver
 p69
-I15
+I13
 sVenergy amplifier
 p70
 I47
@@ -214,13 +214,13 @@ p71
 I3
 sVshell shock
 p72
-I69
+I77
 sVneo z1 exceptional
 p73
 I0
 sVprimed bane of corrupted
 p74
-I51
+I53
 sVprisma gorgon
 p75
 I71
@@ -229,22 +229,22 @@ p76
 I0
 sVgrineer sealab centrifuge scene
 p77
-I2
+I0
 sVlink armor
 p78
 I9
 sVice spring
 p79
-I4
+I3
 sVnekros prime set
 p80
-I107
+I119
 sVsaryn prime chassis
 p81
-I100
+I110
 sVpressurized magazine
 p82
-I85
+I81
 sVamesha systems
 p83
 I0
@@ -265,22 +265,22 @@ p88
 I0
 sVvalana ayatan sculpture
 p89
-I10
+I9
 sVneo v7 flawless
 p90
 I0
 sVphaedra barrel
 p91
-I17
+I19
 sVember prime chassis
 p92
-I34
+I30
 sVitzal set
 p93
-I78
+I68
 sVsybaris prime set
 p94
-I25
+I29
 sVshimmering blight
 p95
 I5
@@ -289,10 +289,10 @@ p96
 I0
 sVvaykor sydon
 p97
-I48
+I50
 sVvital sense
 p98
-I2
+I3
 sVaxi k3 exceptional
 p99
 I0
@@ -301,16 +301,16 @@ p100
 I4
 sVlith s7 radiant
 p101
-I11
+I0
 sVaxi v4 exceptional
 p102
 I0
 sVaxi s2 intact
 p103
-I11
+I12
 sVscavenge
 p104
-I4
+I0
 sVneo n3 flawless
 p105
 I0
@@ -319,28 +319,28 @@ p106
 I4
 sVloki prime blueprint
 p107
-I6
+I8
 sVzenurik lens
 p108
-I8
+I9
 sVlatron wraith blueprint
 p109
-I15
+I21
 sVlasting sting
 p110
-I5
+I0
 sVaxi t1 radiant
 p111
-I30
+I0
 sVvalkyr prime neuroptics
 p112
 I4
 sVstinging thorn
 p113
-I17
+I20
 sVrepeater clip
 p114
-I7
+I8
 sVneo v5 exceptional
 p115
 I0
@@ -349,31 +349,31 @@ p116
 I0
 sVmeso z1 intact
 p117
-I11
+I9
 sVcernos prime set
 p118
-I23
+I27
 sVflechette
 p119
-I6
+I0
 sVquick return
 p120
-I6
+I0
 sVaugur pact
 p121
-I2
+I3
 sVadept surge
 p122
 I0
 sVtectonic fracture
 p123
-I14
+I24
 sVhunter munitions
 p124
-I9
+I10
 sVstrun wraith stock
 p125
-I22
+I24
 sVsoul survivor
 p126
 I17
@@ -382,49 +382,49 @@ p127
 I0
 sVneo h1 radiant
 p128
-I25
+I0
 sVsmite grineer
 p129
-I10
+I0
 sVakbolto prime link
 p130
 I3
 sVprimed heavy trauma
 p131
-I41
+I37
 sVlimbo prime blueprint
 p132
-I8
+I9
 sVprimed pistol mutation
 p133
-I109
+I80
 sVarcane hemlock saryn helmet
 p134
-I66
+I61
 sVair recon
 p135
-I5
+I0
 sVlith f1 exceptional
 p136
 I0
 sVtwin vipers wraith set
 p137
-I40
+I46
 sVexpel corrupted
 p138
-I41
+I32
 sVmeso s5 exceptional
 p139
 I0
 sVhydroid prime systems
 p140
-I34
+I38
 sVsafeguard switch
 p141
-I15
+I0
 sVarcane chorus banshee helmet
 p142
-I333
+I283
 sVloose hatch
 p143
 I0
@@ -436,7 +436,7 @@ p145
 I1
 sVsilva & aegis prime guard
 p146
-I14
+I12
 sVmartial fury
 p147
 I0
@@ -445,7 +445,7 @@ p148
 I0
 sVammo case
 p149
-I5
+I0
 sVmedium mortus lungfish
 p150
 I0
@@ -457,19 +457,19 @@ p152
 I1
 sVambush optics (rubico)
 p153
-I8
+I0
 sVcernos prime grip
 p154
 I5
 sVnatural talent
 p155
-I5
+I6
 sVacid shells
 p156
 I12
 sVperpetual vortex
 p157
-I20
+I23
 sVorthos prime blade
 p158
 I4
@@ -478,10 +478,10 @@ p159
 I0
 sVbuzz kill
 p160
-I15
+I14
 sVeagle eye
 p161
-I2
+I0
 sVneo k1 exceptional
 p162
 I0
@@ -490,46 +490,46 @@ p163
 I0
 sVcernos prime lower limb
 p164
-I14
+I15
 sVmeso n4 radiant
 p165
-I20
+I0
 sVcleanse infested
 p166
-I3
+I0
 sVfired up
 p167
 I2
 sVsnipetron vandal receiver
 p168
-I9
+I14
 sVneo b1 flawless
 p169
 I0
 sVvauban prime blueprint
 p170
-I17
+I18
 sVexodia might
 p171
-I119
+I79
 sVblade of truth
 p172
-I24
+I25
 sVpounce
 p173
-I3
+I0
 sVpistol scavenger
 p174
 I6
 sVprimed shotgun ammo mutation
 p175
-I100
+I109
 sVamaryn's retreat scene
 p176
-I80
+I0
 sVlimbo prime chassis
 p177
-I28
+I34
 sVpistol amp
 p178
 I4
@@ -541,13 +541,13 @@ p180
 I0
 sVnyx prime neuroptics
 p181
-I48
+I46
 sVmuzzle flash
 p182
 I14
 sVrevenge
 p183
-I1
+I0
 sVstreamline
 p184
 I2
@@ -562,10 +562,10 @@ p187
 I39
 sVwyrm prime set
 p188
-I119
+I118
 sVneo s2 intact
 p189
-I25
+I15
 sVaxi k3 radiant
 p190
 I0
@@ -580,22 +580,22 @@ p193
 I0
 sVrathbone set
 p194
-I50
+I0
 sVvoltaic lance
 p195
 I0
 sVbite
 p196
-I49
+I53
 sVorvius disc
 p197
-I1
+I2
 sVarcane gambit vauban helmet
 p198
-I60
+I54
 sVshocking speed
 p199
-I16
+I22
 sVlith z1 radiant
 p200
 I10
@@ -604,7 +604,7 @@ p201
 I0
 sVprova vandal
 p202
-I159
+I168
 sVamesha wings
 p203
 I0
@@ -622,13 +622,13 @@ p207
 I25
 sVlife strike
 p208
-I23
+I19
 sVitzal wings
 p209
-I45
+I0
 sVbrutal tide
 p210
-I4
+I3
 sVtear gas
 p211
 I0
@@ -637,13 +637,13 @@ p212
 I4
 sVsilva & aegis prime set
 p213
-I24
+I23
 sVaxi a1 radiant
 p214
-I32
+I0
 sVrazor shot
 p215
-I2
+I0
 sVgalatine prime blade
 p216
 I2
@@ -655,28 +655,28 @@ p218
 I8
 sVantitoxin
 p219
-I3
+I0
 sVlith s3 exceptional
 p220
 I0
 sVaxi e2 intact
 p221
-I8
+I0
 sVquick thinking
 p222
-I14
+I12
 sVmagus elevate
 p223
-I45
+I38
 sVsicarus prime blueprint
 p224
-I8
+I10
 sVcarrier prime carapace
 p225
-I15
+I12
 sVvenom dose
 p226
-I14
+I15
 sVaxi v3 exceptional
 p227
 I0
@@ -685,34 +685,34 @@ p228
 I0
 sVhornet strike
 p229
-I3
+I2
 sVlith h2 intact
 p230
-I3
+I2
 sVlith s4 flawless
 p231
 I0
 sVlatron wraith barrel
 p232
-I18
+I20
 sVmeso v2 radiant
 p233
-I30
+I0
 sVmagus nourish
 p234
-I50
+I45
 sVprecision munition
 p235
 I0
 sVbane of corpus
 p236
-I5
+I0
 sVcernos prime string
 p237
-I3
+I2
 sVrazorwing blitz
 p238
-I16
+I19
 sVneo m1 flawless
 p239
 I0
@@ -727,7 +727,7 @@ p242
 I69
 sVaxi r1 radiant
 p243
-I95
+I150
 sVsuda's datascape scene
 p244
 I0
@@ -736,25 +736,25 @@ p245
 I1
 sVswift deth
 p246
-I4
+I0
 sVtrick mag
 p247
-I5
+I0
 sVneo k1 flawless
 p248
 I0
 sVballistica prime upper limb
 p249
-I3
+I4
 sVenduring strike
 p250
 I7
 sVexpel grineer
 p251
-I4
+I0
 sVvirtuos fury
 p252
-I43
+I38
 sVflow
 p253
 I2
@@ -763,25 +763,25 @@ p254
 I63
 sVtwin vipers wraith blueprint
 p255
-I13
+I19
 sVpower throw
 p256
 I1
 sVnami skyla prime set
 p257
-I58
+I61
 sVtiberon prime blueprint
 p258
-I5
+I4
 sVcreeping terrify
 p259
-I15
+I22
 sVheart nyth
 p260
 I3
 sVsnipetron vandal set
 p261
-I51
+I43
 sVsanctuary
 p262
 I4
@@ -790,31 +790,31 @@ p263
 I0
 sVfire fright
 p264
-I14
+I0
 sVlex prime blueprint
 p265
 I2
 sVergo's boardroom scene
 p266
-I100
+I0
 sVbreach loader
 p267
 I15
 sVunleashed
 p268
-I4
+I0
 sVneo f1 intact
 p269
-I29
+I18
 sVarcane pulse volt helmet
 p270
-I188
+I196
 sVfinishing touch
 p271
-I5
+I0
 sVmeso c3 radiant
 p272
-I25
+I0
 sVgrineer shipyards manufactory scene
 p273
 I106
@@ -826,46 +826,46 @@ p275
 I0
 sVrathbone head
 p276
-I15
+I23
 sVneo s1 flawless
 p277
 I0
 sVtiberon prime receiver
 p278
-I2
+I4
 sVaxi h2 radiant
 p279
-I30
+I0
 sVesher devar
 p280
 I1
 sVstaggering shield
 p281
-I13
+I17
 sVfanged fusillade
 p282
 I9
 sVjet stream
 p283
-I15
+I22
 sVgalatine prime blueprint
 p284
-I23
+I24
 sVarcane fury
 p285
-I39
+I41
 sVsearing steel
 p286
-I98
+I102
 sVdakra prime blueprint
 p287
-I4
+I5
 sVneo n4 radiant
 p288
 I0
 sVprimed ravage
 p289
-I77
+I76
 sVhysterical fixation
 p290
 I0
@@ -880,52 +880,52 @@ p293
 I0
 sVsilva & aegis prime blade
 p294
-I4
+I3
 sVclashing forest
 p295
 I3
 sVaxi v5 intact
 p296
-I10
+I0
 sVneo n5 radiant
 p297
-I45
+I0
 sVaxi v2 intact
 p298
-I16
+I0
 sVweeping wounds
 p299
-I61
+I68
 sVmorphic transformer
 p300
 I9
 sVmeso e1 radiant
 p301
-I44
+I0
 sVtitanic rumbler
 p302
-I16
+I27
 sVwarrior
 p303
-I6
+I0
 sVexodia contagion
 p304
-I40
+I44
 sVscimitar avionics
 p305
-I10
+I9
 sVextend
 p306
-I4
+I0
 sVincendiary coat
 p307
-I4
+I3
 sVburston prime barrel
 p308
 I5
 sVpath of statues
 p309
-I16
+I25
 sVneo a1 exceptional
 p310
 I0
@@ -934,7 +934,7 @@ p311
 I0
 sVfulmination
 p312
-I34
+I26
 sVmeso s4 exceptional
 p313
 I0
@@ -943,43 +943,43 @@ p314
 I12
 sVfinal harbinger
 p315
-I19
+I22
 sVcorpus ship freight scene
 p316
-I1
+I3
 sVprotect
 p317
-I5
+I0
 sVscattering inferno
 p318
-I20
+I19
 sVaxi c1 intact
 p319
-I90
+I0
 sVmeso s3 intact
 p320
-I100
+I0
 sVburning wasp
 p321
-I2
+I1
 sVbraton vandal stock
 p322
-I70
+I73
 sVheavy warhead
 p323
-I9
+I0
 sVpeaceful provocation
 p324
-I18
+I20
 sVneo h1 intact
 p325
-I6
+I1
 sVvigilante armaments
 p326
-I9
+I10
 sVloot detector
 p327
-I17
+I27
 sVaxi h3 exceptional
 p328
 I0
@@ -997,7 +997,7 @@ p332
 I0
 sVtrinity prime blueprint
 p333
-I10
+I9
 sVtargeting subsystem
 p334
 I9
@@ -1015,22 +1015,22 @@ p338
 I0
 sVsudden justice
 p339
-I8
+I0
 sVsuppress
 p340
-I4
+I0
 sVlatron prime blueprint
 p341
-I5
+I6
 sVdouble tap
 p342
-I7
+I0
 sVash prime blueprint
 p343
-I8
+I9
 sVmeso c1 intact
 p344
-I18
+I15
 sVneo v6 flawless
 p345
 I0
@@ -1039,25 +1039,25 @@ p346
 I0
 sVprisma angstrum
 p347
-I108
+I103
 sVsweeping serration
 p348
-I21
+I19
 sVvenka prime blueprint
 p349
-I3
+I4
 sVsavior decoy
 p350
-I12
+I0
 sVelytron harness
 p351
-I20
+I0
 sVlith n2 exceptional
 p352
 I0
 sVfluctus set
 p353
-I76
+I77
 sVaxi v5 radiant
 p354
 I0
@@ -1066,13 +1066,13 @@ p355
 I0
 sVvampire leech
 p356
-I15
+I18
 sVaxi e1 intact
 p357
 I0
 sVlightning dash
 p358
-I6
+I5
 sVrecuperate
 p359
 I0
@@ -1081,10 +1081,10 @@ p360
 I0
 sVlarge cuthol
 p361
-I3
+I5
 sVunairu lens
 p362
-I4
+I5
 sVxiphos set
 p363
 I0
@@ -1096,37 +1096,37 @@ p365
 I9
 sVhunhow's datascape scene
 p366
-I44
+I0
 sVneo n1 intact
 p367
-I73
+I50
 sVsignal flare
 p368
 I0
 sVneo n7 intact
 p369
-I10
+I7
 sVgrinloked
 p370
-I10
+I0
 sVlith v3 flawless
 p371
 I0
 sVprisma tetra
 p372
-I113
+I121
 sVmeso f1 flawless
 p373
 I0
 sVarcane storm volt helmet
 p374
-I246
+I254
 sVlightning rod
 p375
-I2
+I0
 sVsecura dual cestra
 p376
-I59
+I48
 sVrending strike
 p377
 I3
@@ -1135,10 +1135,10 @@ p378
 I4
 sVneo v6 intact
 p379
-I5
+I3
 sVaxi v1 intact
 p380
-I11
+I17
 sVlith v3 radiant
 p381
 I0
@@ -1147,52 +1147,52 @@ p382
 I0
 sVembedded catalyzer
 p383
-I9
+I6
 sVkarak wraith blueprint
 p384
-I14
+I21
 sVkogake prime set
 p385
-I73
+I75
 sVparis prime grip
 p386
 I3
 sVlith b1 radiant
 p387
-I41
+I0
 sVboltor prime set
 p388
-I118
+I111
 sVfrost prime chassis
 p389
-I20
+I24
 sVneo v6 radiant
 p390
-I25
+I0
 sVbraton vandal set
 p391
-I211
+I221
 sVstalking fan
 p392
-I13
+I14
 sVoberon prime set
 p393
 I68
 sVlith b2 intact
 p394
-I4
+I5
 sVoberon prime blueprint
 p395
-I2
+I3
 sVrelentless assault
 p396
 I0
 sVprisma dual cleavers
 p397
-I122
+I146
 sVtoxic blight
 p398
-I18
+I14
 sVrhino prime systems
 p399
 I10
@@ -1201,64 +1201,64 @@ p400
 I8
 sVaxi n4 radiant
 p401
-I28
+I0
 sVarcane precision
 p402
-I16
+I14
 sVlarge goopolla
 p403
-I3
+I0
 sVgladiator aegis
 p404
-I5
+I4
 sVkronen prime blade
 p405
 I27
 sVlarge karkina
 p406
-I5
+I0
 sVseeking shuriken
 p407
-I13
+I20
 sVtwin vipers wraith barrels
 p408
-I19
+I18
 sVhunt
 p409
-I4
+I0
 sVodonata prime set
 p410
 I45
 sVchaos sphere
 p411
-I24
+I22
 sVpistol pestilence
 p412
-I6
+I7
 sVaxi o2 intact
 p413
-I5
+I10
 sVcatalyzer link
 p414
 I4
 sVcolor key scene
 p415
-I75
+I100
 sVbroad eye
 p416
-I4
+I0
 sVkuva fortress crevice scene
 p417
-I4
+I0
 sVprimed flow
 p418
-I84
+I88
 sVhallowed eruption
 p419
-I17
+I19
 sVaxi c1 radiant
 p420
-I45
+I0
 sVpurging slash
 p421
 I0
@@ -1267,7 +1267,7 @@ p422
 I0
 sVbore
 p423
-I17
+I19
 sVterminal velocity
 p424
 I4
@@ -1276,7 +1276,7 @@ p425
 I0
 sVtiberon prime set
 p426
-I55
+I59
 sVastral twilight
 p427
 I4
@@ -1288,43 +1288,43 @@ p429
 I0
 sVnano-applicator
 p430
-I240
+I180
 sVmeso v3 exceptional
 p431
 I0
 sVsinking talon
 p432
-I3
+I0
 sVenergy field
 p433
-I2
+I1
 sVfatal attraction
 p434
-I4
+I0
 sVember prime blueprint
 p435
-I88
+I80
 sVmeso c3 exceptional
 p436
 I0
 sVblood rush
 p437
-I13
+I17
 sVsword alone
 p438
 I0
 sVdestreza prime handle
 p439
-I10
+I13
 sVshotgun amp
 p440
-I11
+I16
 sVmeso f3 radiant
 p441
-I44
+I0
 sVgreedy pull
 p442
-I25
+I22
 sVshocking touch
 p443
 I2
@@ -1333,13 +1333,13 @@ p444
 I10
 sVvauban prime chassis
 p445
-I23
+I21
 sVprisma skana
 p446
-I96
+I98
 sVlith a2 radiant
 p447
-I20
+I0
 sVmedium mawfish
 p448
 I0
@@ -1348,43 +1348,43 @@ p449
 I3
 sVpistol gambit
 p450
-I2
+I0
 sVhigh voltage
 p451
-I63
+I62
 sVshrapnel shot
 p452
-I4
+I5
 sVvalkyr prime set
 p453
-I70
+I73
 sVaugur accord
 p454
 I4
 sVsoma prime stock
 p455
-I88
+I80
 sVneo t1 exceptional
 p456
 I0
 sVseeker
 p457
-I2
+I3
 sVsnipetron vandal stock
 p458
-I36
+I70
 sVlith v2 flawless
 p459
 I0
 sVvitality
 p460
-I33335
+I1
 sVaxi o3 exceptional
 p461
 I0
 sVsafeguard
 p462
-I17
+I25
 sViron vault
 p463
 I31
@@ -1396,7 +1396,7 @@ p465
 I9
 sVlith h2 radiant
 p466
-I12
+I0
 sVrazor munitions
 p467
 I0
@@ -1405,16 +1405,16 @@ p468
 I3
 sVblazing steel
 p469
-I18
+I19
 sVarrow mutation
 p470
-I1
+I2
 sVspira prime blueprint
 p471
-I1
+I2
 sVankyros prime gauntlet
 p472
-I19
+I18
 sVakbolto prime blueprint
 p473
 I2
@@ -1429,10 +1429,10 @@ p476
 I0
 sVeuphona prime receiver
 p477
-I27
+I28
 sVmag prime blueprint
 p478
-I60
+I55
 sVneo n4 flawless
 p479
 I0
@@ -1441,73 +1441,73 @@ p480
 I0
 sVmeso m1 radiant
 p481
-I44
+I0
 sVdirected convergence
 p482
-I12
+I0
 sVlith v2 intact
 p483
-I35
+I30
 sVbroken war hilt
 p484
-I39
+I41
 sVaxi s2 flawless
 p485
 I0
 sVhealing return
 p486
-I10
+I9
 sVaxi n1 radiant
 p487
-I45
+I0
 sVsmall mawfish
 p488
 I0
 sVpiercing navigator
 p489
-I19
+I0
 sVhydroid prime neuroptics
 p490
 I10
 sVlatron wraith receiver
 p491
-I18
+I19
 sVsurging dash
 p492
-I15
+I20
 sVmirage prime chassis
 p493
-I3
+I2
 sVlith m1 exceptional
 p494
 I0
 sVexodia epidemic
 p495
-I38
+I40
 sVbo prime set
 p496
-I95
+I90
 sVember prime neuroptics
 p497
-I16
+I17
 sVballistica prime set
 p498
-I34
+I23
 sVhydraulic barrel
 p499
-I30
+I0
 sVcleanse corpus
 p500
-I4
+I0
 sVnoble cadence
 p501
 I0
 sVhelios prime set
 p502
-I24
+I23
 sVlethal torrent
 p503
-I4
+I5
 sVmeso f2 exceptional
 p504
 I0
@@ -1516,13 +1516,13 @@ p505
 I6
 sVbeguiling lantern
 p506
-I15
+I0
 sVlarge mawfish
 p507
 I0
 sVpacifying bolts
 p508
-I28
+I0
 sVmeso m1 flawless
 p509
 I0
@@ -1537,16 +1537,16 @@ p512
 I0
 sVvoltaic strike
 p513
-I83
+I91
 sVmeso v2 exceptional
 p514
 I0
 sVnikana prime blade
 p515
-I45
+I47
 sVarcane healing
 p516
-I5
+I4
 sVanticipation
 p517
 I0
@@ -1555,25 +1555,25 @@ p518
 I0
 sVcounter pulse
 p519
-I24
+I31
 sVarcane resistance
 p520
 I4
 sVmeso v5 radiant
 p521
-I15
+I0
 sVmeso t1 radiant
 p522
 I0
 sVblind shot
 p523
-I7
+I0
 sVfast hands
 p524
-I4
+I0
 sVkarak wraith receiver
 p525
-I16
+I0
 sVakbolto prime barrel
 p526
 I3
@@ -1585,109 +1585,109 @@ p528
 I0
 sVquasar drill
 p529
-I11
+I13
 sVneo f1 radiant
 p530
-I23
+I0
 sVvigilante fervor
 p531
-I5
+I4
 sVescape velocity
 p532
-I17
+I13
 sVreaping chakram
 p533
-I17
+I21
 sVakbronco prime blueprint
 p534
 I1
 sVprimed bane of grineer
 p535
-I58
+I62
 sVlie in wait
 p536
 I0
 sVgladiator resolve
 p537
-I5
+I4
 sVamesha harness
 p538
 I0
 sVspira prime pouch
 p539
-I19
+I20
 sVdig
 p540
-I6
+I0
 sVboltor prime barrel
 p541
-I12
+I11
 sVaxi k1 intact
 p542
-I10
+I0
 sVtactical pump
 p543
-I4
+I3
 sVlith a2 flawless
 p544
 I0
 sVbullet dance
 p545
-I38
+I58
 sVnekros prime neuroptics
 p546
-I21
+I19
 sVneutron star
 p547
-I17
+I21
 sVcarrier prime blueprint
 p548
-I4
+I5
 sVayr ayatan sculpture
 p549
 I8
 sVmalicious raptor
 p550
-I9
+I8
 sVconstitution
 p551
 I9
 sVagkuza guard
 p552
-I15
+I14
 sVlith c2 radiant
 p553
 I0
 sVlith g2 exceptional
 p554
-I23
+I0
 sVnorth wind
 p555
-I2
+I0
 sVsuperior defenses
 p556
-I10
+I0
 sVguardian
 p557
-I8
+I5
 sVstrun wraith set
 p558
-I95
+I92
 sVlith s5 intact
 p559
-I19
+I0
 sVcarrier prime systems
 p560
 I4
 sVmeso v3 radiant
 p561
-I30
+I0
 sVneo b3 radiant
 p562
-I25
+I0
 sVenemy radar
 p563
-I13
+I12
 sVmag prime chassis
 p564
 I9
@@ -1711,10 +1711,10 @@ p570
 I10
 sVdera vandal barrel
 p571
-I21
+I20
 sVimperator vandal receiver
 p572
-I120
+I103
 sVmeso v3 flawless
 p573
 I0
@@ -1723,13 +1723,13 @@ p574
 I3
 sVjagged edge
 p575
-I3
+I4
 sVneo s5 flawless
 p576
 I0
 sVkarak wraith set
 p577
-I70
+I71
 sVaxi o2 radiant
 p578
 I0
@@ -1738,37 +1738,37 @@ p579
 I4
 sVravage
 p580
-I4
+I3
 sVlith b1 intact
 p581
-I15
+I0
 sVregen
 p582
-I4
+I0
 sVfireball frenzy
 p583
-I15
+I0
 sVmeso v5 flawless
 p584
 I0
 sVefficient transferral
 p585
-I7
+I6
 sVneo v4 radiant
 p586
 I0
 sVduality
 p587
-I19
+I16
 sVflak shot
 p588
 I0
 sVprimed heated charge
 p589
-I86
+I87
 sVarcane acceleration
 p590
-I11
+I10
 sVfang prime blueprint
 p591
 I2
@@ -1777,13 +1777,13 @@ p592
 I0
 sVbane of infested
 p593
-I8
+I0
 sVnekros prime chassis
 p594
-I4
+I3
 sVlarge tralok
 p595
-I0
+I4
 sVaxi h1 flawless
 p596
 I0
@@ -1798,25 +1798,25 @@ p599
 I0
 sVgladiator vice
 p600
-I67
+I65
 sVvulpine mask
 p601
 I4
 sVancient fusion core
 p602
-I41
+I0
 sVmesa\u2019s waltz
 p603
 I15
 sVarcane barrier
 p604
-I18
+I17
 sVcarving mantis
 p605
 I7
 sVempowered blades
 p606
-I54
+I65
 sVeleventh storm
 p607
 I4
@@ -1825,22 +1825,22 @@ p608
 I10
 sVsacrifice
 p609
-I31
+I37
 sVaugur secrets
 p610
-I90
+I87
 sVaxi e1 exceptional
 p611
 I0
 sVbanshee prime blueprint
 p612
-I3
+I2
 sVhikou prime stars
 p613
-I9
+I12
 sVfang prime set
 p614
-I10
+I14
 sVicy avalanche
 p615
 I19
@@ -1849,10 +1849,10 @@ p616
 I7
 sVkappa beacon
 p617
-I61
+I0
 sVsawtooth clip
 p618
-I4
+I3
 sVlow current leap
 p619
 I0
@@ -1864,40 +1864,40 @@ p621
 I93
 sVeidolon zenurik lens
 p622
-I83
+I82
 sVlethal momentum
 p623
 I4
 sVexpel infested
 p624
-I4
+I0
 sVspinning needle
 p625
-I2
+I0
 sVlith n3 radiant
 p626
 I17
 sViron phoenix
 p627
-I1
+I2
 sVthe perrin sequence augment mod
 p628
-I15
+I14
 sVaxi n4 flawless
 p629
 I0
 sVneo n6 intact
 p630
-I0
+I7
 sVitzal systems
 p631
-I45
+I0
 sVprisma grakata
 p632
-I116
+I93
 sVabating link
 p633
-I16
+I18
 sVmeso t2 flawless
 p634
 I0
@@ -1909,37 +1909,37 @@ p636
 I0
 sVsure shot
 p637
-I4
+I0
 sVore gaze
 p638
-I16
+I24
 sVlarge sharrac
 p639
-I5
+I0
 sVvigilante pursuit
 p640
-I4
+I3
 sVaxi n5 radiant
 p641
-I7
+I0
 sVnegation swarm
 p642
-I18
+I21
 sVmeso s2 intact
 p643
-I84
+I0
 sVmeso s1 intact
 p644
 I0
 sVsteady hands
 p645
-I2
+I1
 sVlith s2 exceptional
 p646
 I0
 sVash prime systems
 p647
-I71
+I69
 sVlith b1 exceptional
 p648
 I0
@@ -1951,22 +1951,22 @@ p650
 I0
 sVquanta vandal
 p651
-I101
+I140
 sVwyrm prime carapace
 p652
-I22
+I26
 sVaxi s2 radiant
 p653
-I40
+I0
 sVneo h1 exceptional
 p654
 I0
 sVphaedra stock
 p655
-I19
+I17
 sVnova prime set
 p656
-I323
+I346
 sVmalignant force
 p657
 I9
@@ -1975,7 +1975,7 @@ p658
 I9
 sVdestreza prime blade
 p659
-I19
+I21
 sVlith s5 exceptional
 p660
 I0
@@ -1984,25 +1984,25 @@ p661
 I0
 sVcorrosive projection
 p662
-I12
+I20
 sVlith s6 radiant
 p663
 I0
 sVarcane essence loki helmet
 p664
-I151
+I115
 sVprisma obex
 p665
-I145
+I155
 sVeject magazine
 p666
-I31
+I53
 sVaxi a1 flawless
 p667
 I0
 sVreflect
 p668
-I2
+I0
 sVneo v6 exceptional
 p669
 I0
@@ -2011,46 +2011,46 @@ p670
 I10
 sVexodia valor
 p671
-I68
+I53
 sVimperator vandal set
 p672
-I69
+I68
 sVhysterical assault
 p673
-I17
+I30
 sVglaive prime set
 p674
-I118
+I121
 sVlex prime barrel
 p675
 I1
 sVshattering justice
 p676
-I15
+I13
 sVhammer shot
 p677
 I7
 sVboltor prime receiver
 p678
-I18
+I17
 sVsmall mortus lungfish
 p679
 I0
 sVstockpiled blight
 p680
-I11
+I13
 sVnaramon transmute core
 p681
-I6
+I0
 sVaxi n2 radiant
 p682
-I30
+I0
 sVresonating quake
 p683
 I17
 sVsavage silence
 p684
-I16
+I21
 sVarcane agility
 p685
 I4
@@ -2059,16 +2059,16 @@ p686
 I0
 sVneo n2 intact
 p687
-I35
+I0
 sVcutting edge
 p688
-I4
+I0
 sVlith s3 flawless
 p689
 I0
 sVaklex prime set
 p690
-I60
+I58
 sVlith a1 flawless
 p691
 I0
@@ -2080,16 +2080,16 @@ p693
 I16
 sVreflex draw
 p694
-I25
+I9
 sVthief's wit
 p695
-I2
+I3
 sVlarge khut-khut
 p696
 I0
 sVarcane meridian trinity helmet
 p697
-I88
+I83
 sVvermilion storm
 p698
 I10
@@ -2104,13 +2104,13 @@ p701
 I1
 sVberserker
 p702
-I19
+I20
 sVprism guard
 p703
 I0
 sVmagnum force
 p704
-I3
+I2
 sVinfiltrate
 p705
 I19
@@ -2122,19 +2122,19 @@ p707
 I2
 sVakbolto prime receiver
 p708
-I30
+I36
 sVcyclone kraken
 p709
-I56
+I185
 sVodonata prime systems
 p710
-I3
+I4
 sVchilling globe
 p711
 I14
 sVelectrified barrel
 p712
-I46
+I53
 sVpistol ammo mutation
 p713
 I3
@@ -2152,10 +2152,10 @@ p717
 I0
 sVarcane ultimatum
 p718
-I13
+I11
 sVmelee riven mod (veiled)
 p719
-I23
+I24
 sVregenerative molt
 p720
 I14
@@ -2170,22 +2170,22 @@ p723
 I0
 sVmeso s3 radiant
 p724
-I45
+I0
 sVmeso n5 intact
 p725
-I9
+I0
 sVmeso o1 flawless
 p726
 I0
 sVprimed pistol gambit
 p727
-I103
+I105
 sVwarm coat
 p728
-I4
+I0
 sVlatron prime receiver
 p729
-I8
+I9
 sVhunter synergy
 p730
 I3
@@ -2197,16 +2197,16 @@ p732
 I85
 sVrifle aptitude
 p733
-I10
+I0
 sVmachete wraith
 p734
-I130
+I150
 sVmagazine extension
 p735
-I6
+I0
 sVvile acceleration
 p736
-I12
+I13
 sVlith s1 exceptional
 p737
 I0
@@ -2215,7 +2215,7 @@ p738
 I0
 sVzephyr prime chassis
 p739
-I5
+I8
 sVsmall yogwun
 p740
 I0
@@ -2227,10 +2227,10 @@ p742
 I2
 sVhikou prime pouch
 p743
-I25
+I26
 sVloki prime chassis
 p744
-I56
+I53
 sVlith b1 flawless
 p745
 I0
@@ -2242,40 +2242,40 @@ p747
 I0
 sVrising storm
 p748
-I18
+I23
 sVkavasa prime collar band
 p749
-I3
+I4
 sVhealth conversion
 p750
-I85
+I86
 sVheavy impact
 p751
-I2
+I0
 sVneo d1 intact
 p752
-I25
+I0
 sVdouble-barrel drift
 p753
-I119
+I0
 sVadrenaline boost
 p754
-I10
+I0
 sVneo l1 exceptional
 p755
 I0
 sVjolt
 p756
-I86
+I88
 sVrhino prime blueprint
 p757
-I246
+I239
 sVnekros prime systems
 p758
-I28
+I34
 sVaxi v7 radiant
 p759
-I20
+I0
 sVstormbringer
 p760
 I3
@@ -2293,10 +2293,10 @@ p764
 I0
 sVarcane consequence
 p765
-I3
+I2
 sVdual decurion barrel
 p766
-I16
+I19
 sVsinister reach
 p767
 I3
@@ -2311,19 +2311,19 @@ p770
 I0
 sVtiberon prime stock
 p771
-I13
+I14
 sVhikou prime set
 p772
 I89
 sVassimilate
 p773
-I27
+I29
 sVvaykor marelok
 p774
-I38
+I43
 sVvexing retaliation
 p775
-I14
+I0
 sVaxi n5 exceptional
 p776
 I0
@@ -2332,61 +2332,61 @@ p777
 I22
 sVmarquise veridos
 p778
-I2
+I1
 sVneo n2 radiant
 p779
-I40
+I0
 sVaxi v3 flawless
 p780
 I0
 sVfrost prime systems
 p781
-I22
+I23
 sVfragor prime blueprint
 p782
-I5
+I6
 sVmaster thief
 p783
-I1
+I2
 sVneo s3 exceptional
 p784
 I0
 sVkilling blow
 p785
-I3
+I0
 sVneo e1 flawless
 p786
 I0
 sVcorroding barrage
 p787
-I24
+I25
 sVradiant finish
 p788
-I17
+I18
 sVmeso o1 exceptional
 p789
 I0
 sVwyrm prime systems
 p790
-I30
+I31
 sVmeso s3 flawless
 p791
 I0
 sVcentaur blade
 p792
-I17
+I16
 sVaxi v7 intact
 p793
-I9
+I0
 sVfrigid blast
 p794
 I16
 sVvolt prime set
 p795
-I159
+I156
 sVnova prime blueprint
 p796
-I23
+I30
 sVnami skyla prime handle
 p797
 I3
@@ -2395,7 +2395,7 @@ p798
 I0
 sVorvius blade
 p799
-I3
+I4
 sVballistica prime string
 p800
 I5
@@ -2404,7 +2404,7 @@ p801
 I2
 sVsmall karkina
 p802
-I2
+I0
 sVsoma prime barrel
 p803
 I14
@@ -2419,34 +2419,34 @@ p806
 I15
 sVneo n4 intact
 p807
-I11
+I13
 sVshotgun ammo mutation
 p808
 I2
 sVmedi-ray
 p809
-I30
+I31
 sVcryo rounds
 p810
 I2
 sVenhanced vitality
 p811
-I4
+I3
 sVoverview
 p812
-I9
+I0
 sVhell's chamber
 p813
 I2
 sVfeathered arrows
 p814
-I20
+I0
 sVmeso e1 intact
 p815
-I20
+I25
 sVvulcan blitz
 p816
-I9
+I10
 sVaxi c2 radiant
 p817
 I0
@@ -2455,10 +2455,10 @@ p818
 I0
 sVstretch
 p819
-I1
+I2
 sVonorix set
 p820
-I0
+I50
 sVmeso s1 radiant
 p821
 I0
@@ -2470,10 +2470,10 @@ p823
 I10
 sVcorvas stock
 p824
-I15
+I14
 sVbo prime handle
 p825
-I16
+I17
 sVakbronco prime set
 p826
 I10
@@ -2482,7 +2482,7 @@ p827
 I0
 sVpiv ayatan sculpture
 p828
-I0
+I10
 sVself destruct
 p829
 I4
@@ -2494,7 +2494,7 @@ p831
 I2
 sVvengeful revenant
 p832
-I48
+I90
 sVfurax wraith right gauntlet
 p833
 I8
@@ -2503,55 +2503,55 @@ p834
 I0
 sVaccelerated deflection
 p835
-I1
+I0
 sVlith k1 flawless
 p836
 I0
 sVexplosive legerdemain
 p837
-I26
+I23
 sVsecondary wind
 p838
-I7
+I0
 sVsundering weave
 p839
-I1
+I0
 sVinfested impedance
 p840
-I4
+I3
 sVstand united
 p841
-I19
+I20
 sVmeso t1 exceptional
 p842
 I0
 sVarcane vespa nyx helmet
 p843
-I333
+I183
 sVlith m1 radiant
 p844
-I30
+I0
 sVaxi a2 flawless
 p845
 I0
 sVsprint boost
 p846
-I18
+I20
 sVpyroclastic flow
 p847
-I14
+I25
 sVaklex prime link
 p848
-I41
+I36
 sVmeso n1 intact
 p849
-I16
+I19
 sVloyal companion
 p850
-I4
+I0
 sVsoft hands
 p851
-I20
+I0
 sVarcane momentum
 p852
 I4
@@ -2560,19 +2560,19 @@ p853
 I1
 sVburston prime blueprint
 p854
-I2
+I1
 sVrhino prime neuroptics
 p855
-I34
+I24
 sVmeso h1 intact
 p856
-I10
+I0
 sVrathbone handle
 p857
-I13
+I12
 sVagkuza handle
 p858
-I18
+I20
 sVbounty hunter
 p859
 I0
@@ -2584,22 +2584,22 @@ p861
 I15
 sVlith s2 intact
 p862
-I11
+I0
 sVdera vandal blueprint
 p863
 I10
 sVtactical retreat
 p864
-I12
+I0
 sVlith k1 exceptional
 p865
 I0
 sVaxi a3 radiant
 p866
-I40
+I0
 sVsecura penta
 p867
-I48
+I51
 sVsurplus diverters
 p868
 I0
@@ -2608,22 +2608,22 @@ p869
 I2
 sVlith v4 radiant
 p870
-I10
+I0
 sVenemy sense
 p871
-I5
+I3
 sVmeso o2 radiant
 p872
 I0
 sVsmall glappid
 p873
-I3
+I1
 sVvolt prime chassis
 p874
-I17
+I16
 sVpack leader
 p875
-I4
+I3
 sVorthos prime set
 p876
 I13
@@ -2635,7 +2635,7 @@ p878
 I0
 sVdestreza prime blueprint
 p879
-I6
+I7
 sVwyrm prime blueprint
 p880
 I5
@@ -2647,7 +2647,7 @@ p882
 I4
 sVvectis prime blueprint
 p883
-I4
+I5
 sVstand ground
 p884
 I0
@@ -2656,19 +2656,19 @@ p885
 I3
 sVdual kamas prime blade
 p886
-I69
+I71
 sVneo s1 intact
 p887
-I15
+I10
 sVsnipetron vandal blueprint
 p888
-I6
+I9
 sVmelee prowess
 p889
-I4
+I0
 sVvacuum
 p890
-I3
+I0
 sVmeso n5 exceptional
 p891
 I0
@@ -2677,22 +2677,22 @@ p892
 I23
 sVhastened deflection
 p893
-I5
+I0
 sVember prime set
 p894
-I186
+I191
 sVmantis engines
 p895
-I7
+I8
 sVlith v2 radiant
 p896
-I10
+I0
 sVneo s6 radiant
 p897
 I0
 sVboar prime set
 p898
-I99
+I100
 sVaxi h3 radiant
 p899
 I0
@@ -2701,52 +2701,52 @@ p900
 I18
 sVdead eye
 p901
-I16
+I21
 sVmeso s2 radiant
 p902
 I30
 sVenergy inversion
 p903
-I9
+I10
 sVkogake prime gauntlet
 p904
 I12
 sVneo s3 radiant
 p905
-I30
+I0
 sVhelios prime systems
 p906
 I3
 sVagkuza blade
 p907
-I26
+I22
 sVneo s3 flawless
 p908
 I0
 sVmeso z1 radiant
 p909
-I9
+I0
 sVvirtuos tempo
 p910
-I60
+I0
 sVkronen prime handle
 p911
 I5
 sVburston prime set
 p912
-I10
+I9
 sVsupra vandal
 p913
-I135
+I140
 sVvile precision
 p914
 I2
 sVendurance drift
 p915
-I4
+I5
 sVsudden impact
 p916
-I4
+I0
 sVvelocitus receiver
 p917
 I15
@@ -2755,22 +2755,22 @@ p918
 I0
 sVaxi h3 intact
 p919
-I5
+I15
 sVlith s2 radiant
 p920
 I0
 sVmeso c2 radiant
 p921
-I35
+I0
 sVitzal harness
 p922
-I43
+I0
 sVaxi b1 radiant
 p923
 I0
 sVbronco prime receiver
 p924
-I2
+I3
 sVpush & pull
 p925
 I0
@@ -2779,7 +2779,7 @@ p926
 I16
 sVlith s1 intact
 p927
-I10
+I7
 sVtarget cracker
 p928
 I6
@@ -2788,13 +2788,13 @@ p929
 I9
 sVshock absorbers
 p930
-I3
+I0
 sVstinging truth
 p931
-I16
+I13
 sVloaded capacity
 p932
-I8
+I0
 sVbraton prime stock
 p933
 I2
@@ -2803,25 +2803,25 @@ p934
 I1
 sVscindo prime handle
 p935
-I6
+I7
 sVwildfire
 p936
 I2
 sVnami skyla prime blueprint
 p937
-I2
+I4
 sVvaporize
 p938
-I3
+I0
 sVnarrow barrel
 p939
-I80
+I75
 sVboar prime blueprint
 p940
 I10
 sVsplit chamber
 p941
-I3
+I5
 sVpurifying flames
 p942
 I0
@@ -2830,34 +2830,34 @@ p943
 I2
 sVdakra prime blade
 p944
-I28
+I29
 sVaxi e1 flawless
 p945
 I0
 sVakbronco prime link
 p946
-I3
+I4
 sVrending crane
 p947
-I18
+I14
 sVmischief
 p948
-I4
+I3
 sVfrail momentum
 p949
-I2
+I3
 sVstriker
 p950
-I3
+I0
 sVnova prime neuroptics
 p951
-I5
+I6
 sVnikana prime blueprint
 p952
-I9
+I10
 sVvolt prime systems
 p953
-I15
+I14
 sVmeso s6 radiant
 p954
 I0
@@ -2866,37 +2866,37 @@ p955
 I4
 sVmagnetized discharge
 p956
-I23
+I22
 sVshred shot
 p957
 I0
 sVrush
 p958
-I2
+I1
 sVgorgon frenzy
 p959
-I59
+I0
 sVharrow's temple scene
 p960
-I50
+I70
 sVphaedra set
 p961
-I75
+I0
 sVrage
 p962
 I17
 sVfang prime blade
 p963
-I2
+I3
 sVdetect vulnerability
 p964
-I74
+I75
 sVsoma prime blueprint
 p965
-I5
+I8
 sVmeso f1 intact
 p966
-I15
+I0
 sVmeso n1 flawless
 p967
 I0
@@ -2905,13 +2905,13 @@ p968
 I0
 sVarcane swindle loki helmet
 p969
-I266
+I241
 sVvirulent scourge
 p970
-I6
+I7
 sVvasto prime receiver
 p971
-I4
+I3
 sVaxi o2 flawless
 p972
 I0
@@ -2920,43 +2920,43 @@ p973
 I2
 sVlith g1 intact
 p974
-I55
+I0
 sVtesla link
 p975
-I20
+I25
 sVprimed reach
 p976
-I78
+I95
 sVspira prime blade
 p977
-I59
+I71
 sVlith s5 flawless
 p978
 I0
 sVarcane menticide nyx helmet
 p979
-I50
+I141
 sVneo s8 radiant
 p980
 I0
 sVantimatter absorb
 p981
-I17
+I22
 sVtrample
 p982
-I32
+I0
 sVglaive prime blade
 p983
-I22
+I23
 sVankyros prime set
 p984
-I151
+I163
 sVhellfire
 p985
 I7
 sVmeso f3 intact
 p986
-I20
+I27
 sVtriple tap
 p987
 I0
@@ -2965,7 +2965,7 @@ p988
 I0
 sVonorix handle
 p989
-I15
+I17
 sVaxi o3 flawless
 p990
 I0
@@ -2974,31 +2974,31 @@ p991
 I8
 sVdespoil
 p992
-I14
+I18
 sVavenging truth
 p993
-I25
+I20
 sVveil's binding scene
 p994
-I50
+I0
 sVtether grenades
 p995
 I1
 sVzephyr prime systems
 p996
-I24
+I22
 sVbo prime blueprint
 p997
-I6
+I8
 sVaxi n2 intact
 p998
-I0
+I30
 sVproboscis
 p999
-I6
+I0
 sVviper wraith
 p1000
-I103
+I138
 sVmeso s1 flawless
 p1001
 I0
@@ -3010,28 +3010,28 @@ p1003
 I0
 sVlith s4 radiant
 p1004
-I40
+I0
 sVmeso n4 flawless
 p1005
 I0
 sVneo e1 radiant
 p1006
-I49
+I25
 sVneo n6 flawless
 p1007
 I0
 sVgrineer settlement artillery scene
 p1008
-I4
+I10
 sVburston prime stock
 p1009
-I2
+I3
 sVmind freak
 p1010
-I27
+I24
 sVprimed point blank
 p1011
-I91
+I96
 sVmeso c2 intact
 p1012
 I0
@@ -3040,7 +3040,7 @@ p1013
 I0
 sVmeso t1 intact
 p1014
-I4
+I0
 sVneo b4 flawless
 p1015
 I0
@@ -3052,46 +3052,46 @@ p1017
 I16
 sVakbolto prime set
 p1018
-I119
+I109
 sVzodiac shred
 p1019
-I8
+I9
 sVbronco prime set
 p1020
-I19
+I23
 sVarbiters of hexis augment mod
 p1021
-I0
+I15
 sVneo d1 flawless
 p1022
 I0
 sVeidolon madurai lens
 p1023
-I87
+I89
 sVparry
 p1024
-I4
+I0
 sVhyperion thrusters
 p1025
 I6
 sVmeso v2 intact
 p1026
-I10
+I6
 sVneo k1 intact
 p1027
-I4
+I5
 sVaxi v3 radiant
 p1028
 I0
 sVkaszas set
 p1029
-I45
+I50
 sVnova prime systems
 p1030
-I15
+I14
 sVkarak wraith stock
 p1031
-I55
+I26
 sVfirewalker
 p1032
 I3
@@ -3100,7 +3100,7 @@ p1033
 I3
 sVenduring affliction
 p1034
-I6
+I0
 sVlith n1 exceptional
 p1035
 I0
@@ -3109,10 +3109,10 @@ p1036
 I19
 sVrending turn
 p1037
-I4
+I0
 sVnyx prime set
 p1038
-I233
+I268
 sVmutalist alad v assassinate key
 p1039
 I18
@@ -3124,7 +3124,7 @@ p1041
 I16
 sVenergy conversion
 p1042
-I86
+I83
 sVmeso b1 radiant
 p1043
 I0
@@ -3133,43 +3133,43 @@ p1044
 I0
 sVdisruptor
 p1045
-I7
+I0
 sVinaros tomb scene
 p1046
 I0
 sVnikana prime hilt
 p1047
-I48
+I53
 sVmodified munitions
 p1048
-I7
+I8
 sVcalm & frenzy
 p1049
-I22
+I23
 sVneo n6 radiant
 p1050
 I0
 sVlith a2 intact
 p1051
-I5
+I8
 sVfracturing crush
 p1052
-I18
+I21
 sVexpel corpus
 p1053
-I15
+I12
 sVarcane victory
 p1054
 I7
 sVarcane thrak rhino helmet
 p1055
-I79
+I70
 sVaxi s1 radiant
 p1056
 I0
 sVarcane esprit vauban helmet
 p1057
-I61
+I51
 sVcorvas set
 p1058
 I73
@@ -3178,31 +3178,31 @@ p1059
 I1
 sVhastened steps
 p1060
-I5
+I0
 sVneo n4 exceptional
 p1061
 I0
 sVsands of inaros
 p1062
-I40
+I42
 sVtransient fortitude
 p1063
-I28
+I29
 sVaxi n4 intact
 p1064
-I20
+I17
 sVmetal fiber
 p1065
-I6
+I2
 sVarmored acrobatics
 p1066
 I0
 sVgorgon wraith barrel
 p1067
-I3
+I4
 sVstrun wraith blueprint
 p1068
-I13
+I19
 sVcold snap
 p1069
 I1
@@ -3214,70 +3214,70 @@ p1071
 I0
 sVspira prime set
 p1072
-I181
+I214
 sVmeso v4 exceptional
 p1073
 I0
 sVfuror
 p1074
-I4
+I0
 sVblunderbuss
 p1075
 I5
 sVblaze
 p1076
-I5
+I7
 sVneo b4 exceptional
 p1077
 I0
 sVcressa's garrison scene
 p1078
-I48
+I0
 sVlith t1 exceptional
 p1079
 I0
 sVquickening
 p1080
-I5
+I3
 sVlarge mortus lungfish
 p1081
-I4
+I0
 sVneo s7 flawless
 p1082
 I0
 sVnyx prime chassis
 p1083
-I141
+I156
 sVmeso s4 intact
 p1084
-I15
+I10
 sVpointed wind
 p1085
 I4
 sVcentaur handle
 p1086
-I16
+I18
 sVneo b1 radiant
 p1087
-I50
+I0
 sVdual kamas prime set
 p1088
-I166
+I163
 sVthumper
 p1089
-I3
+I0
 sVcorrupt charge
 p1090
 I2
 sVmeasured burst
 p1091
-I9
+I0
 sVhollowed bullets
 p1092
 I6
 sVcombustion rounds
 p1093
-I10
+I13
 sVmedium sharrac
 p1094
 I0
@@ -3289,16 +3289,16 @@ p1096
 I0
 sVbladed rounds
 p1097
-I10
+I9
 sVbane of corrupted
 p1098
-I41
+I33
 sVarcane velocity
 p1099
 I20
 sVneo b1 intact
 p1100
-I50
+I0
 sVodonata prime harness
 p1101
 I8
@@ -3307,79 +3307,79 @@ p1102
 I0
 sVdual rounds
 p1103
-I29
+I28
 sVlith l1 exceptional
 p1104
 I0
 sVfocused defense
 p1105
-I9
+I10
 sVshotgun spazz
 p1106
 I4
 sVice wave impedance
 p1107
-I14
+I23
 sVaxi g1 exceptional
 p1108
 I0
 sVguided ordnance
 p1109
-I8
+I9
 sVprisma veritux
 p1110
-I133
+I139
 sVfatal acceleration
 p1111
-I3
+I0
 sVglaive prime blueprint
 p1112
-I44
+I48
 sVdera vandal stock
 p1113
-I25
+I17
 sVlith n1 flawless
 p1114
 I0
 sVneo v5 radiant
 p1115
-I12
+I0
 sVimpenetrable offense
 p1116
 I0
 sVhydroid prime blueprint
 p1117
-I3
+I4
 sVaxi l2 radiant
 p1118
-I19
+I20
 sVmeso h1 flawless
 p1119
 I0
 sVmirage prime neuroptics
 p1120
-I2
+I3
 sVauger strike
 p1121
-I16
+I18
 sVvenka prime gauntlet
 p1122
 I41
 sVlink health
 p1123
-I18
+I19
 sVaxi a2 intact
 p1124
-I8
+I9
 sVfirequake
 p1125
-I16
+I14
 sVcyngas set
 p1126
 I0
 sVvectis prime set
 p1127
-I191
+I193
 sVneo s2 flawless
 p1128
 I0
@@ -3388,7 +3388,7 @@ p1129
 I1
 sVvauban prime systems
 p1130
-I36
+I38
 sVeidolon lens blueprint
 p1131
 I19
@@ -3397,7 +3397,7 @@ p1132
 I0
 sVeuphona prime set
 p1133
-I27
+I24
 sVserrated rounds
 p1134
 I0
@@ -3406,19 +3406,19 @@ p1135
 I0
 sVsynoid simulor
 p1136
-I49
+I52
 sVaxi v6 intact
 p1137
-I10
+I0
 sVlith n3 flawless
 p1138
 I0
 sVfluctus barrel
 p1139
-I16
+I18
 sVbane of grineer
 p1140
-I8
+I0
 sVseeking fury
 p1141
 I3
@@ -3433,19 +3433,19 @@ p1144
 I0
 sVmeso v1 intact
 p1145
-I16
+I20
 sVradian sentirum
 p1146
 I5
 sVlith f2 intact
 p1147
-I11
+I8
 sVboltor prime blueprint
 p1148
-I41
+I40
 sVnekros prime blueprint
 p1149
-I30
+I31
 sVpower of three
 p1150
 I0
@@ -3457,10 +3457,10 @@ p1152
 I0
 sVtotal eclipse
 p1153
-I26
+I21
 sVaccelerated blast
 p1154
-I2
+I1
 sVkinetic collision
 p1155
 I0
@@ -3472,28 +3472,28 @@ p1157
 I0
 sVsicarus prime barrel
 p1158
-I11
+I13
 sVsteel charge
 p1159
-I33
+I34
 sVloki prime set
 p1160
-I273
+I280
 sVarcane grace
 p1161
-I126
+I123
 sVloose magazine
 p1162
 I0
 sVinsulation
 p1163
-I9
+I0
 sVmeso n5 flawless
 p1164
 I0
 sVsicarus prime receiver
 p1165
-I40
+I42
 sVneo n5 exceptional
 p1166
 I0
@@ -3505,7 +3505,7 @@ p1168
 I0
 sVvirtuos ghost
 p1169
-I50
+I0
 sVdestreza prime set
 p1170
 I75
@@ -3517,10 +3517,10 @@ p1172
 I0
 sVproof fragment
 p1173
-I0
+I2
 sVvirtuos strike
 p1174
-I41
+I45
 sVmedi-pet kit
 p1175
 I1
@@ -3529,7 +3529,7 @@ p1176
 I4
 sVlith a1 radiant
 p1177
-I20
+I0
 sVrift torrent
 p1178
 I19
@@ -3538,31 +3538,31 @@ p1179
 I21
 sVfurious javelin
 p1180
-I17
+I27
 sVstealth drift
 p1181
 I2
 sVcunning drift
 p1182
-I5
+I6
 sVnarrow minded
 p1183
-I19
+I20
 sVpyrana prime barrel
 p1184
-I7
+I9
 sVparis prime string
 p1185
-I3
+I4
 sVlarge glappid
 p1186
-I4
+I5
 sVzephyr prime neuroptics
 p1187
-I2
+I1
 sVarcane ice
 p1188
-I2
+I1
 sVvicious spread
 p1189
 I9
@@ -3574,28 +3574,28 @@ p1191
 I0
 sVenergy siphon
 p1192
-I8
+I12
 sVcernos prime blueprint
 p1193
 I2
 sVneo s8 intact
 p1194
-I7
+I3
 sVchilling reload
 p1195
 I6
 sVlimbo prime set
 p1196
-I139
+I130
 sVflash accelerant
 p1197
-I16
+I22
 sVmeso d1 intact
 p1198
-I15
+I0
 sVarcane deflection
 p1199
-I2
+I3
 sVprimed target cracker
 p1200
 I100
@@ -3604,16 +3604,16 @@ p1201
 I21
 sVomega beacon
 p1202
-I28
+I0
 sVcrash shot
 p1203
 I0
 sVswipe
 p1204
-I2
+I0
 sVgrineer forest industry scene
 p1205
-I11
+I14
 sVaxi n1 exceptional
 p1206
 I0
@@ -3622,16 +3622,16 @@ p1207
 I0
 sVreflex coil
 p1208
-I2
+I0
 sVfragor prime set
 p1209
-I17
+I19
 sVneo s6 exceptional
 p1210
 I0
 sVbraton prime barrel
 p1211
-I4
+I6
 sVmeso v1 flawless
 p1212
 I0
@@ -3640,13 +3640,13 @@ p1213
 I2
 sVcyngas barrel
 p1214
-I18
+I19
 sVneo v3 exceptional
 p1215
 I0
 sVreawaken
 p1216
-I71
+I74
 sVmeso e1 flawless
 p1217
 I0
@@ -3655,7 +3655,7 @@ p1218
 I4
 sVhunter's bonesaw
 p1219
-I4
+I8
 sVscimitar fuselage
 p1220
 I8
@@ -3664,13 +3664,13 @@ p1221
 I0
 sVsavagery
 p1222
-I4
+I0
 sVdakra prime handle
 p1223
-I5
+I6
 sVcomet blast
 p1224
-I15
+I23
 sVmedium khut-khut
 p1225
 I0
@@ -3679,25 +3679,25 @@ p1226
 I0
 sVstalk
 p1227
-I5
+I0
 sVsilent battery
 p1228
-I4
+I6
 sVfluctus limbs
 p1229
-I16
+I19
 sVlith s5 radiant
 p1230
-I20
+I0
 sVperpetual agony
 p1231
-I7
+I0
 sVthermite rounds
 p1232
-I9
+I10
 sVcephalon suda augment mod
 p1233
-I9
+I15
 sVaxi o1 flawless
 p1234
 I0
@@ -3706,7 +3706,7 @@ p1235
 I0
 sVmeso v4 radiant
 p1236
-I75
+I0
 sVmeso s1 exceptional
 p1237
 I0
@@ -3715,34 +3715,34 @@ p1238
 I19
 sVlato vandal barrel
 p1239
-I87
+I94
 sVhydroid prime chassis
 p1240
 I3
 sVrakta ballistica
 p1241
-I38
+I45
 sVoberon prime chassis
 p1242
-I4
+I5
 sVlarva burst
 p1243
-I15
+I19
 sVfull capacity
 p1244
 I0
 sVneo n1 flawless
 p1245
-I49
+I0
 sVshell compression
 p1246
-I3
+I0
 sVmantis set
 p1247
 I36
 sVreach
 p1248
-I1
+I3
 sVcharm
 p1249
 I1
@@ -3751,13 +3751,13 @@ p1250
 I0
 sVnova prime chassis
 p1251
-I275
+I271
 sVhunter adrenaline
 p1252
 I5
 sVvazarin transmute core
 p1253
-I9
+I0
 sVboar prime barrel
 p1254
 I19
@@ -3766,7 +3766,7 @@ p1255
 I38
 sVash prime set
 p1256
-I108
+I131
 sVmeso n4 exceptional
 p1257
 I0
@@ -3775,7 +3775,7 @@ p1258
 I104
 sVaxi l2 intact
 p1259
-I9
+I11
 sVneo n1 exceptional
 p1260
 I0
@@ -3790,19 +3790,19 @@ p1263
 I0
 sVlith a1 intact
 p1264
-I13
+I10
 sVdera vandal receiver
 p1265
-I11
+I15
 sVtrinity prime neuroptics
 p1266
-I9
+I10
 sVlith n3 intact
 p1267
-I8
+I6
 sVcombustion beam
 p1268
-I3
+I2
 sVneo s1 exceptional
 p1269
 I0
@@ -3814,10 +3814,10 @@ p1271
 I0
 sVmadurai transmute core
 p1272
-I8
+I0
 sVsaryn prime neuroptics
 p1273
-I10
+I9
 sVaxi h2 intact
 p1274
 I0
@@ -3835,13 +3835,13 @@ p1278
 I0
 sVfinal tap
 p1279
-I18
+I0
 sVsmall sharrac
 p1280
 I0
 sVintensify
 p1281
-I1
+I2
 sVsnap shot
 p1282
 I0
@@ -3850,7 +3850,7 @@ p1283
 I0
 sVbanshee prime chassis
 p1284
-I13
+I17
 sVstunning speed
 p1285
 I2
@@ -3877,37 +3877,37 @@ p1292
 I65
 sVneutralizing justice
 p1293
-I25
+I19
 sVvasto prime barrel
 p1294
-I11
+I13
 sVtainted shell
 p1295
-I2
+I3
 sVarcane vanguard rhino helmet
 p1296
-I600
+I566
 sVsheev hilt
 p1297
-I15
+I17
 sVenhanced durability
 p1298
 I4
 sVneo s5 radiant
 p1299
-I86
+I0
 sVaxi r1 intact
 p1300
-I80
+I75
 sVaklex prime blueprint
 p1301
-I7
+I8
 sVgilded truth
 p1302
-I15
+I21
 sVspring-loaded broadhead
 p1303
-I40
+I45
 sVlith b3 flawless
 p1304
 I0
@@ -3916,58 +3916,58 @@ p1305
 I0
 sVnightwatch napalm
 p1306
-I7
+I9
 sVfour riders
 p1307
-I17
+I18
 sVparis prime set
 p1308
-I10
+I13
 sVneo m1 exceptional
 p1309
 I0
 sVvectis prime stock
 p1310
-I58
+I70
 sVakstiletto prime link
 p1311
-I7
+I8
 sVlith n2 flawless
 p1312
 I0
 sVaxi o3 radiant
 p1313
-I19
+I0
 sVmeso d1 flawless
 p1314
 I0
 sVcyngas receiver
 p1315
-I13
+I15
 sVfollow through
 p1316
 I0
 sVtarget fixation
 p1317
-I17
+I30
 sVaxi k2 radiant
 p1318
 I0
 sVprimed slip magazine
 p1319
-I40
+I66
 sVaxi v6 radiant
 p1320
 I0
 sVmedium glappid
 p1321
-I4
+I2
 sVcataclysmic continuum
 p1322
 I18
 sVhydraulic gauge
 p1323
-I15
+I0
 sVarcane phantasm
 p1324
 I3
@@ -3976,34 +3976,34 @@ p1325
 I0
 sVlith c1 radiant
 p1326
-I30
+I0
 sVbleeding edge
 p1327
-I4
+I0
 sVlith s6 intact
 p1328
-I15
+I30
 sVmeso o2 exceptional
 p1329
 I0
 sVmedium murkray
 p1330
-I3
+I2
 sVbody count
 p1331
-I13
+I14
 sVvenka prime set
 p1332
-I85
+I90
 sVboar prime receiver
 p1333
 I5
 sVsmite corpus
 p1334
-I4
+I0
 sVarcane gauss mag helmet
 p1335
-I113
+I96
 sVneo m1 intact
 p1336
 I3
@@ -4015,70 +4015,70 @@ p1338
 I2
 sVconcussion rounds
 p1339
-I2
+I0
 sVarcane squall frost helmet
 p1340
-I263
+I286
 sVblind justice
 p1341
 I2
 sVwinds of purity
 p1342
-I15
+I16
 sVarcane energize
 p1343
-I278
+I279
 sVrupture
 p1344
-I4
+I0
 sVlith n1 intact
 p1345
-I80
+I0
 sVlith s4 intact
 p1346
-I8
+I10
 sVspeed drift
 p1347
-I16
+I17
 sVmeso o2 intact
 p1348
-I5
+I9
 sVpoint blank
 p1349
 I2
 sVheightened reflexes
 p1350
-I6
+I0
 sVbraton vandal barrel
 p1351
-I7
+I5
 sVmeso g1 intact
 p1352
-I6
+I7
 sVlith h1 exceptional
 p1353
 I0
 sVamesha set
 p1354
-I150
+I0
 sVakstiletto prime barrel
 p1355
-I10
+I9
 sVmeso g1 flawless
 p1356
 I0
 sVgorgon wraith set
 p1357
-I7
+I9
 sVstrun wraith receiver
 p1358
-I40
+I0
 sVfrost prime blueprint
 p1359
-I77
+I76
 sVconcealed explosives
 p1360
-I12
+I13
 sVneo z1 intact
 p1361
 I5
@@ -4087,22 +4087,22 @@ p1362
 I0
 sVsynoid heliocor
 p1363
-I55
+I56
 sVlith m1 intact
 p1364
-I32
+I24
 sVboltor prime stock
 p1365
-I15
+I14
 sVfast deflection
 p1366
-I2
+I0
 sVhunter command
 p1367
 I3
 sVmantis fuselage
 p1368
-I12
+I18
 sVenergy channel
 p1369
 I1
@@ -4111,28 +4111,28 @@ p1370
 I3
 sVaxi k3 intact
 p1371
-I6
+I9
 sVmeso d2 radiant
 p1372
 I0
 sVtoxic flight
 p1373
-I2
+I1
 sVrifle riven mod (veiled)
 p1374
-I47
+I46
 sVvolt prime neuroptics
 p1375
 I51
 sVpiercing hit
 p1376
-I4
+I0
 sVmagus replenish
 p1377
-I65
+I0
 sVdefiled snapdragon
 p1378
-I3
+I4
 sVlith f1 radiant
 p1379
 I0
@@ -4144,7 +4144,7 @@ p1381
 I0
 sVvigilante supplies
 p1382
-I18
+I24
 sVaxi v1 exceptional
 p1383
 I0
@@ -4156,37 +4156,37 @@ p1385
 I0
 sVshotgun scavenger
 p1386
-I4
+I3
 sVaxi c2 intact
 p1387
-I10
+I0
 sVaxi v1 flawless
 p1388
 I0
 sVkavasa prime collar buckle
 p1389
-I14
+I17
 sVarcane pulse
 p1390
-I8
+I9
 sVhowl
 p1391
-I7
+I0
 sVlith v1 intact
 p1392
-I6
+I5
 sVcalculated shot
 p1393
 I0
 sVrhino prime set
 p1394
-I363
+I373
 sVreaper prime set
 p1395
 I50
 sVlegendary fusion core
 p1396
-I394
+I388
 sVkogake prime blueprint
 p1397
 I5
@@ -4195,28 +4195,28 @@ p1398
 I0
 sVentropy burst
 p1399
-I19
+I20
 sVcorpus void key
 p1400
-I475
+I0
 sVgladiator might
 p1401
 I8
 sVterritorial aggression
 p1402
-I5
+I0
 sVgaia's tragedy
 p1403
 I2
 sVneo v4 intact
 p1404
-I20
+I0
 sVequilibrium
 p1405
-I13
+I14
 sVrebound
 p1406
-I5
+I0
 sVneo s8 flawless
 p1407
 I0
@@ -4228,43 +4228,43 @@ p1409
 I0
 sVcurative undertow
 p1410
-I26
+I24
 sVneo s3 intact
 p1411
-I17
+I0
 sVaxi e2 radiant
 p1412
 I0
 sVsoma prime set
 p1413
-I186
+I198
 sVripper rounds
 p1414
 I0
 sVcorvas receiver
 p1415
-I14
+I16
 sVshotgun riven mod (veiled)
 p1416
-I103
+I108
 sVtactical reload
 p1417
-I11
+I0
 sVmeso n3 exceptional
 p1418
 I0
 sVprimed rifle ammo mutation
 p1419
-I60
+I71
 sVrakta dark dagger
 p1420
-I66
+I65
 sVxiphos avionics
 p1421
 I0
 sVmeso n2 intact
 p1422
-I9
+I0
 sVserrated edges
 p1423
 I0
@@ -4273,7 +4273,7 @@ p1424
 I0
 sVvolcanic edge
 p1425
-I8
+I6
 sVapex predator
 p1426
 I0
@@ -4282,7 +4282,7 @@ p1427
 I3
 sVvoltage sequence
 p1428
-I22
+I23
 sVmeso s2 exceptional
 p1429
 I0
@@ -4291,16 +4291,16 @@ p1430
 I0
 sVadhesive blast
 p1431
-I2
+I1
 sVlex prime set
 p1432
 I9
 sVexodia brave
 p1433
-I100
+I0
 sVmirage prime systems
 p1434
-I5
+I8
 sVflailing branch
 p1435
 I4
@@ -4309,82 +4309,82 @@ p1436
 I0
 sVsure footed
 p1437
-I8
+I9
 sVkavasa prime collar blueprint
 p1438
-I6
+I4
 sVlith c1 intact
 p1439
 I0
 sVmag prime systems
 p1440
-I60
+I53
 sVaxi c1 flawless
 p1441
 I0
 sVmagus husk
 p1442
-I31
+I38
 sVarc coil
 p1443
-I12
+I0
 sVkaszas blade
 p1444
-I11
+I15
 sVvauban prime set
 p1445
-I130
+I163
 sVlith l1 intact
 p1446
 I0
 sVsmoke shadow
 p1447
-I17
+I18
 sVparis prime lower limb
 p1448
-I1
+I2
 sVphaedra receiver
 p1449
-I17
+I18
 sVnikana prime set
 p1450
-I131
+I121
 sVmantis avionics
 p1451
 I8
 sVpiercing caliber
 p1452
-I39
+I36
 sVakstiletto prime set
 p1453
 I138
 sVswing line
 p1454
-I19
+I0
 sVfleeting expertise
 p1455
-I21
+I29
 sVconvulsion
 p1456
-I2
+I1
 sVgrim fury
 p1457
 I4
 sVstrun wraith barrel
 p1458
-I28
+I25
 sVprolonged paralysis
 p1459
-I24
+I27
 sVcapacitance
 p1460
-I17
+I20
 sVmirage prime set
 p1461
-I47
+I43
 sVlith h1 intact
 p1462
-I4
+I5
 sVneo b1 exceptional
 p1463
 I0
@@ -4393,7 +4393,7 @@ p1464
 I0
 sVkogake prime boot
 p1465
-I7
+I8
 sVneo b5 radiant
 p1466
 I0
@@ -4402,28 +4402,28 @@ p1467
 I0
 sVbattering maneuver
 p1468
-I4
+I0
 sVrhino prime chassis
 p1469
-I42
+I39
 sVlith v4 intact
 p1470
-I4
+I7
 sVshield disruption
 p1471
 I9
 sVakstiletto prime blueprint
 p1472
-I15
+I13
 sVneo b2 radiant
 p1473
-I10
+I0
 sVglacial edge
 p1474
 I4
 sVfunnel clouds
 p1475
-I16
+I22
 sVaxi n3 flawless
 p1476
 I0
@@ -4432,7 +4432,7 @@ p1477
 I2
 sVscindo prime blade
 p1478
-I56
+I48
 sVmedium cuthol
 p1479
 I2
@@ -4450,16 +4450,16 @@ p1483
 I0
 sVlimbo prime neuroptics
 p1484
-I49
+I48
 sVlith f1 flawless
 p1485
 I0
 sVdakra prime set
 p1486
-I42
+I47
 sVneo s5 intact
 p1487
-I29
+I0
 sVmeso h1 radiant
 p1488
 I0
@@ -4468,19 +4468,19 @@ p1489
 I5
 sVprimed morphic transformer
 p1490
-I110
+I87
 sVelytron systems
 p1491
 I0
 sVtigris prime set
 p1492
-I33
+I34
 sVrime vault
 p1493
 I0
 sVguided effigy
 p1494
-I18
+I22
 sVmeso n3 intact
 p1495
 I0
@@ -4489,10 +4489,10 @@ p1496
 I0
 sVonorix blade
 p1497
-I17
+I21
 sVtidal impunity
 p1498
-I21
+I0
 sVmeso c3 flawless
 p1499
 I0
@@ -4501,58 +4501,58 @@ p1500
 I0
 sVastral slash
 p1501
-I7
+I9
 sVsancti magistar
 p1502
-I53
+I60
 sVvigilante offense
 p1503
-I17
+I18
 sVsilva & aegis prime blueprint
 p1504
-I3
+I2
 sVsniper ammo mutation
 p1505
-I1
+I2
 sVaxi c2 flawless
 p1506
 I0
 sVafterburn
 p1507
-I15
+I0
 sVneo v3 flawless
 p1508
 I0
 sVkavasa prime collar set
 p1509
-I28
+I30
 sVlarge yogwun
 p1510
 I0
 sVneo s2 radiant
 p1511
-I45
+I0
 sVhallowed reckoning
 p1512
-I16
+I14
 sVmedium norg
 p1513
 I2
 sVparis prime upper limb
 p1514
-I2
+I1
 sVneo n2 exceptional
 p1515
 I0
 sVdeadly sequence
 p1516
-I15
+I21
 sVlua nursery scene
 p1517
-I0
+I60
 sVtelos akbolto
 p1518
-I49
+I60
 sVnyx prime blueprint
 p1519
 I3
@@ -4564,16 +4564,16 @@ p1521
 I0
 sVvauban prime neuroptics
 p1522
-I24
+I22
 sVsharpened blade
 p1523
 I0
 sVvectis prime receiver
 p1524
-I96
+I93
 sVshield of shadows
 p1525
-I17
+I19
 sVshadow harvest
 p1526
 I0
@@ -4585,13 +4585,13 @@ p1528
 I2
 sVquickdraw
 p1529
-I4
+I0
 sVprimed bane of infested
 p1530
-I55
+I56
 sVshattering impact
 p1531
-I4
+I3
 sVbraton prime set
 p1532
 I10
@@ -4603,7 +4603,7 @@ p1534
 I0
 sVfocus energy
 p1535
-I4
+I3
 sVmeso v3 intact
 p1536
 I0
@@ -4612,25 +4612,25 @@ p1537
 I0
 sVmara detron
 p1538
-I113
+I116
 sVmagazine warp
 p1539
-I4
+I0
 sVeternal war
 p1540
-I14
+I17
 sVpressure point
 p1541
-I1
+I5
 sVsmall murkray
 p1542
 I2
 sVcontagious spread
 p1543
-I4
+I5
 sVslip magazine
 p1544
-I4
+I0
 sVmeso s6 intact
 p1545
 I12
@@ -4639,7 +4639,7 @@ p1546
 I0
 sVhawk eye
 p1547
-I4
+I0
 sVdepleted reload
 p1548
 I4
@@ -4648,55 +4648,55 @@ p1549
 I35
 sVsystem reroute
 p1550
-I21
+I31
 sVlith f1 intact
 p1551
-I17
+I8
 sVmobilize
 p1552
 I2
 sVkaszas handle
 p1553
-I13
+I12
 sVfreeze force
 p1554
-I13
+I19
 sVneo a1 flawless
 p1555
 I0
 sVgalvanized blade
 p1556
-I9
+I8
 sVvelocitus stock
 p1557
 I14
 sVlatron prime barrel
 p1558
-I25
+I24
 sVcondition overload
 p1559
-I78
+I77
 sVodonata prime blueprint
 p1560
 I6
 sVmagus cloud
 p1561
-I50
+I0
 sVmeso k1 flawless
 p1562
 I0
 sVcoaction drift
 p1563
-I3
+I4
 sVaxi l2 exceptional
 p1564
 I0
 sVgamma beacon
 p1565
-I80
+I0
 sVaxi n5 intact
 p1566
-I6
+I18
 sVbronco prime barrel
 p1567
 I9
@@ -4705,16 +4705,16 @@ p1568
 I0
 sVarcane pendragon excalibur helmet
 p1569
-I513
+I468
 sVsmall norg
 p1570
-I2
+I1
 sVtoxic sequence
 p1571
-I24
+I25
 sVprimal rage
 p1572
-I22
+I21
 sVneo s7 intact
 p1573
 I3
@@ -4738,58 +4738,58 @@ p1579
 I17
 sVseeking force
 p1580
-I4
+I5
 sVseismic wave
 p1581
-I5
+I3
 sVred veil augment mod
 p1582
-I13
+I11
 sVsaryn prime systems
 p1583
 I4
 sVtempered blade
 p1584
-I4
+I0
 sVaxi t1 intact
 p1585
 I15
 sVmeso v1 radiant
 p1586
-I27
+I0
 sVprimed cryo rounds
 p1587
-I78
+I80
 sVshell rush
 p1588
-I80
+I59
 sVspry sights
 p1589
-I10
+I0
 sVneo n3 radiant
 p1590
-I20
+I0
 sVlith s2 flawless
 p1591
 I0
 sVdual decurion set
 p1592
-I99
+I92
 sVloose chamber
 p1593
 I0
 sVgalatine prime handle
 p1594
-I3
+I4
 sVlith v2 exceptional
 p1595
 I0
 sVgrineer forest water pump scene
 p1596
-I9
+I8
 sVmeso n4 intact
 p1597
-I7
+I8
 sVtigris prime receiver
 p1598
 I4
@@ -4801,25 +4801,25 @@ p1600
 I0
 sVcarrier prime set
 p1601
-I116
+I108
 sVneo v2 intact
 p1602
-I5
+I2
 sVcrowd dispersion
 p1603
-I4
+I0
 sVdrifting contact
 p1604
-I21
+I24
 sVballistica prime blueprint
 p1605
-I9
+I8
 sVsteel meridian augment mod
 p1606
-I14
+I11
 sVcleanse grineer
 p1607
-I4
+I0
 sVlato vandal blueprint
 p1608
 I74
@@ -4828,13 +4828,13 @@ p1609
 I0
 sVpathogen rounds
 p1610
-I11
+I13
 sVorthos prime blueprint
 p1611
-I2
+I3
 sVstabilizer
 p1612
-I1
+I2
 sVneo a1 intact
 p1613
 I0
@@ -4849,34 +4849,34 @@ p1616
 I4
 sVsaryn prime set
 p1617
-I174
+I165
 sVboar prime stock
 p1618
-I39
+I33
 sVcarrier prime cerebrum
 p1619
-I79
+I89
 sVcleaving whirlwind
 p1620
 I4
 sVodonata prime wings
 p1621
-I26
+I28
 sVvasto prime set
 p1622
-I80
+I71
 sVlith l1 flawless
 p1623
 I0
 sVarcane aegis
 p1624
-I19
+I20
 sVvenomous rise
 p1625
 I0
 sVarcane reverb banshee helmet
 p1626
-I74
+I70
 sVreflex guard
 p1627
 I2
@@ -4888,46 +4888,46 @@ p1629
 I0
 sVargon scope
 p1630
-I235
+I240
 sVneo n6 exceptional
 p1631
 I0
 sVvigilante vigor
 p1632
-I3
+I2
 sVscindo prime blueprint
 p1633
-I3
+I4
 sVkill switch
 p1634
-I7
+I0
 sVmeso s4 radiant
 p1635
-I40
+I0
 sVarcane arachne
 p1636
 I4
 sVtiberon prime barrel
 p1637
-I18
+I17
 sVbraton prime blueprint
 p1638
-I1
+I2
 sVward recovery
 p1639
 I0
 sVentropy detonation
 p1640
-I18
+I17
 sVneo e1 intact
 p1641
-I19
+I25
 sVdelta beacon
 p1642
-I60
+I0
 sVgunslinger
 p1643
-I3
+I4
 sVmeso s5 flawless
 p1644
 I0
@@ -4936,31 +4936,31 @@ p1645
 I0
 sVdual kamas prime handle
 p1646
-I7
+I8
 sVlith t1 radiant
 p1647
-I15
+I0
 sVneo v4 flawless
 p1648
 I0
 sVhunter track
 p1649
-I4
+I3
 sVchilling grasp
 p1650
-I2
+I3
 sVprimed fast hands
 p1651
-I67
+I73
 sVbanshee prime set
 p1652
 I45
 sVneo v3 intact
 p1653
-I7
+I0
 sVneo v1 intact
 p1654
-I59
+I61
 sVbo prime ornament
 p1655
 I18
@@ -4969,19 +4969,19 @@ p1656
 I0
 sVscimitar set
 p1657
-I73
+I79
 sVmeso d2 intact
 p1658
-I6
+I5
 sVlith s7 intact
 p1659
-I4
+I5
 sVeidolon naramon lens
 p1660
-I81
+I99
 sVgun glide
 p1661
-I18
+I40
 sVcritical deceleration
 p1662
 I2
@@ -4990,25 +4990,25 @@ p1663
 I1
 sVmeteor crash
 p1664
-I13
+I9
 sVvasto prime blueprint
 p1665
-I34
+I37
 sVbright purity
 p1666
-I22
+I21
 sVarcane trickery
 p1667
-I4
+I3
 sVelectromagnetic shielding
 p1668
-I11
+I10
 sVcrash course
 p1669
 I3
 sVarcane avenger
 p1670
-I19
+I20
 sVmirage prime blueprint
 p1671
 I16
@@ -5020,7 +5020,7 @@ p1673
 I4
 sVsynoid gammacor
 p1674
-I41
+I86
 sVlith v3 exceptional
 p1675
 I0
@@ -5029,7 +5029,7 @@ p1676
 I6
 sVsoma prime receiver
 p1677
-I39
+I43
 sVoverextended
 p1678
 I19
@@ -5044,22 +5044,22 @@ p1681
 I4
 sVcontinuous misery
 p1682
-I5
+I0
 sVvazarin lens
 p1683
-I4
+I5
 sVneo b5 exceptional
 p1684
 I0
 sVhydroid prime set
 p1685
-I69
+I71
 sVlith s4 exceptional
 p1686
 I0
 sVplains of eidolon scene
 p1687
-I51
+I54
 sVlith h1 radiant
 p1688
 I0
@@ -5068,16 +5068,16 @@ p1689
 I0
 sVrakta cernos
 p1690
-I45
+I41
 sVskull shots (viper)
 p1691
-I10
+I0
 sVcalculated redirection
 p1692
-I4
+I2
 sVjustice blades
 p1693
-I15
+I16
 sVlith s1 flawless
 p1694
 I0
@@ -5092,10 +5092,10 @@ p1697
 I0
 sVrifle amp
 p1698
-I9
+I10
 sVvalkyr prime systems
 p1699
-I17
+I19
 sVsmall cuthol
 p1700
 I2
@@ -5104,19 +5104,19 @@ p1701
 I0
 sVmeso k1 intact
 p1702
-I7
+I5
 sVlith l1 radiant
 p1703
 I0
 sVintruder
 p1704
-I4
+I0
 sVmagus vigor
 p1705
-I30
+I28
 sVrime rounds
 p1706
-I12
+I14
 sVfull contact
 p1707
 I3
@@ -5131,31 +5131,31 @@ p1710
 I0
 sVhydraulic chamber
 p1711
-I15
+I0
 sVmeso f2 radiant
 p1712
-I81
+I0
 sVshred
 p1713
 I3
 sVtigris prime blueprint
 p1714
-I29
+I22
 sVenguard
 p1715
 I0
 sVneo b4 intact
 p1716
-I4
+I0
 sVpyrana prime receiver
 p1717
-I21
+I19
 sVsoaring strike
 p1718
-I15
+I0
 sVkinetic diversion
 p1719
-I300
+I0
 sVeuphona prime barrel
 p1720
 I3
@@ -5164,13 +5164,13 @@ p1721
 I0
 sVaxi v7 exceptional
 p1722
-I15
+I0
 sVaxi n1 intact
 p1723
-I14
+I22
 sVsybaris prime barrel
 p1724
-I13
+I15
 sVruinous extension
 p1725
 I21
@@ -5179,37 +5179,37 @@ p1726
 I3
 sVlatron wraith stock
 p1727
-I11
+I17
 sVcontagion cloud
 p1728
-I14
+I18
 sVtrue steel
 p1729
-I3
+I4
 sVaviator
 p1730
-I7
+I8
 sVfluctus stock
 p1731
-I14
+I16
 sVferocity
 p1732
-I4
+I0
 sVmeso f1 radiant
 p1733
-I20
+I0
 sVorokin derelict plaza scene
 p1734
-I95
+I140
 sVarcane guardian
 p1735
-I40
+I39
 sVgrineer forest factory scene
 p1736
 I10
 sVhaven
 p1737
-I18
+I19
 sVphoenix renewal
 p1738
 I14
@@ -5221,55 +5221,55 @@ p1740
 I2
 sVarcane aura trinity helmet
 p1741
-I131
+I156
 sVneo n2 flawless
 p1742
 I0
 sVmagus cadence
 p1743
-I50
+I0
 sVbraton vandal blueprint
 p1744
-I86
+I78
 sVtranquil cleave
 p1745
-I6
+I8
 sVarcane strike
 p1746
-I14
+I15
 sVarcane eruption
 p1747
-I4
+I5
 sVlith v1 exceptional
 p1748
 I0
 sVneutralize
 p1749
-I5
+I0
 sVexodia triumph
 p1750
-I150
+I0
 sVbroken war set
 p1751
-I600
+I400
 sViron shrapnel
 p1752
-I15
+I14
 sVsancti castanas
 p1753
-I48
+I45
 sVstreamlined form
 p1754
-I15
+I14
 sVdeep freeze
 p1755
-I3
+I4
 sVbarrel diffusion
 p1756
-I5
+I4
 sVaxi s1 intact
 p1757
-I10
+I0
 sVphysique
 p1758
 I3
@@ -5278,10 +5278,10 @@ p1759
 I0
 sVdera vandal set
 p1760
-I39
+I36
 sVankyros prime blueprint
 p1761
-I5
+I7
 sVaxi c2 exceptional
 p1762
 I0
@@ -5290,7 +5290,7 @@ p1763
 I0
 sVprovoked
 p1764
-I3
+I0
 sVlith n2 intact
 p1765
 I0
@@ -5305,25 +5305,25 @@ p1768
 I38
 sVmeso s5 intact
 p1769
-I8
+I7
 sVmeso m1 intact
 p1770
-I48
+I43
 sVthundermiter (miter)
 p1771
-I8
+I0
 sVbroken war blade
 p1772
-I99
+I89
 sVkarak wraith barrel
 p1773
-I11
+I13
 sVvolt prime blueprint
 p1774
-I29
+I34
 sVpiercing roar
 p1775
-I17
+I0
 sVaxi b2 radiant
 p1776
 I0
@@ -5332,34 +5332,34 @@ p1777
 I3
 sVwyrm prime cerebrum
 p1778
-I27
+I21
 sVlith a2 exceptional
 p1779
 I0
 sVvelocitus barrel
 p1780
-I14
+I19
 sVno return
 p1781
-I4
+I0
 sVoberon prime systems
 p1782
-I34
+I39
 sVemergent aftermath
 p1783
-I13
+I0
 sVelectro pulse
 p1784
-I50
+I0
 sVmeso s5 radiant
 p1785
-I20
+I0
 sVnyx prime systems
 p1786
 I14
 sVvigor
 p1787
-I6
+I7
 sVlith b3 radiant
 p1788
 I0
@@ -5368,37 +5368,37 @@ p1789
 I0
 sVmeso b1 intact
 p1790
-I15
+I10
 sVice storm
 p1791
-I1
+I2
 sVneo v2 flawless
 p1792
 I0
 sVarcane rage
 p1793
-I10
+I13
 sVvicious frost
 p1794
-I6
+I8
 sVaxi n3 intact
 p1795
-I0
+I10
 sVlith g1 flawless
 p1796
 I0
 sVlasting covenant
 p1797
-I16
+I23
 sVdual decurion receiver
 p1798
-I17
+I19
 sVaxi r1 flawless
 p1799
 I0
 sVneo t1 intact
 p1800
-I15
+I0
 sVdispatch overdrive
 p1801
 I3
@@ -5407,28 +5407,28 @@ p1802
 I0
 sVhandspring
 p1803
-I5
+I7
 sVfrost prime neuroptics
 p1804
-I10
+I12
 sVspeed trigger
 p1805
-I2
+I0
 sVlith g2 radiant
 p1806
 I0
 sVlith v1 radiant
 p1807
-I25
+I0
 sVflame repellent
 p1808
-I3
+I0
 sVaxi h2 exceptional
 p1809
 I0
 sVcharged shell
 p1810
-I7
+I8
 sVlith v4 exceptional
 p1811
 I0
@@ -5437,49 +5437,49 @@ p1812
 I0
 sVprimed pressure point
 p1813
-I74
+I72
 sVglaive prime disc
 p1814
-I7
+I10
 sVsaryn prime blueprint
 p1815
-I29
+I31
 sVvanquished prey
 p1816
 I0
 sVxiphos engines
 p1817
-I37
+I0
 sVgrineer settlement reactor scene
 p1818
-I50
+I59
 sVdecisive judgement
 p1819
-I7
+I6
 sVfever strike
 p1820
 I4
 sVneo n1 radiant
 p1821
-I66
+I62
 sVtargeting receptor
 p1822
-I44
+I0
 sVsequence burn
 p1823
-I20
+I0
 sVlith t1 intact
 p1824
 I0
 sVmaiming strike
 p1825
-I336
+I348
 sVmeso v5 exceptional
 p1826
 I0
 sVeroding blight
 p1827
-I13
+I14
 sVgrowing power
 p1828
 I74
@@ -5491,25 +5491,25 @@ p1830
 I3
 sVpyrana prime blueprint
 p1831
-I9
+I17
 sVaxi v4 radiant
 p1832
-I30
+I0
 sVmeso g1 radiant
 p1833
-I30
+I0
 sVtrinity prime chassis
 p1834
 I8
 sVirradiating disarm
 p1835
-I14
+I18
 sVarcane nullifier
 p1836
-I8
+I9
 sVlato vandal set
 p1837
-I218
+I210
 sVmeso s6 flawless
 p1838
 I0
@@ -5521,13 +5521,13 @@ p1840
 I0
 sVaxi o1 radiant
 p1841
-I20
+I0
 sVlith s1 radiant
 p1842
 I0
 sVsniper scavenger
 p1843
-I3
+I0
 sVvenomous clip
 p1844
 I8
@@ -5536,58 +5536,58 @@ p1845
 I0
 sVsmite infested
 p1846
-I4
+I0
 sVprimed regen
 p1847
-I90
+I93
 sVaxi o3 intact
 p1848
 I8
 sVprimed bane of corpus
 p1849
-I54
+I70
 sVlith g2 intact
 p1850
-I19
+I49
 sVsybaris prime receiver
 p1851
 I3
 sVpiercing step
 p1852
-I5
+I0
 sVaxi g1 intact
 p1853
-I21
+I8
 sVmedium charc eel
 p1854
 I0
 sVfinal act
 p1855
-I10
+I0
 sVarcane locust ash helmet
 p1856
 I60
 sVconcentrated arrow
 p1857
-I18
+I23
 sVmeso c1 flawless
 p1858
 I0
 sVlith s3 radiant
 p1859
-I30
+I0
 sVstar crimzian
 p1860
-I2
+I1
 sVsicarus prime set
 p1861
-I86
+I83
 sVmeso o2 flawless
 p1862
 I0
 sVneo s6 intact
 p1863
-I10
+I0
 sVfurax wraith blueprint
 p1864
 I5
@@ -5596,22 +5596,22 @@ p1865
 I0
 sVsnipetron vandal barrel
 p1866
-I26
+I27
 sVaxi n4 exceptional
 p1867
 I0
 sVsheev heatsink
 p1868
-I8
+I13
 sVmaul
 p1869
-I13
+I14
 sVlith z1 intact
 p1870
-I6
+I7
 sVvirtuos shadow
 p1871
-I50
+I35
 sVneo b4 radiant
 p1872
 I0
@@ -5623,28 +5623,28 @@ p1874
 I0
 sVauxiliary power
 p1875
-I69
+I66
 sVmeso z1 exceptional
 p1876
 I0
 sVlith v3 intact
 p1877
-I3
+I5
 sVenergy transfer
 p1878
-I23
+I0
 sVhelios prime carapace
 p1879
-I1
+I2
 sVtransistor shield
 p1880
-I17
+I22
 sVsancti tigris
 p1881
 I48
 sVreaper prime handle
 p1882
-I11
+I9
 sVlith s7 flawless
 p1883
 I0
@@ -5659,58 +5659,58 @@ p1886
 I0
 sVhushed invisibility
 p1887
-I14
+I23
 sVreflection
 p1888
-I3
+I0
 sVundying will
 p1889
-I1
+I0
 sVelytron set
 p1890
-I73
+I0
 sVvelocitus set
 p1891
-I61
+I68
 sVmeso c1 radiant
 p1892
-I40
+I0
 sVfracturing wind
 p1893
 I1
 sVarcane scorpion ash helmet
 p1894
-I37
+I33
 sVmeso t2 intact
 p1895
-I4
+I0
 sVargon plating
 p1896
-I4
+I0
 sVbrief respite
 p1897
-I7
+I6
 sVvaykor hek
 p1898
-I40
+I38
 sVaxi l1 intact
 p1899
-I42
+I0
 sVanasa ayatan sculpture
 p1900
-I17
+I15
 sVhelios prime cerebrum
 p1901
 I15
 sVmeso d1 radiant
 p1902
-I20
+I0
 sVmagma chamber
 p1903
-I170
+I203
 sVlingering torment
 p1904
-I3
+I0
 sVarcane tempo
 p1905
 I3
@@ -5719,19 +5719,19 @@ p1906
 I3
 sVaxi a2 radiant
 p1907
-I15
+I16
 sVscattered justice
 p1908
 I14
 sVammo drum
 p1909
-I4
+I2
 sVlith b2 radiant
 p1910
 I0
 sVaxi l1 radiant
 p1911
-I0
+I50
 sVaxi h1 radiant
 p1912
 I0
@@ -5743,28 +5743,28 @@ p1914
 I10
 sVgalatine prime set
 p1915
-I27
+I30
 sVneo z1 radiant
 p1916
-I10
+I0
 sVlex prime receiver
 p1917
-I7
+I6
 sVsmite infusion
 p1918
-I17
+I22
 sVnebula bore
 p1919
-I5
+I7
 sVaxi l1 exceptional
 p1920
-I20
+I0
 sVmeso f3 flawless
 p1921
 I0
 sVchromatic blade
 p1922
-I14
+I13
 sVhush
 p1923
 I4
@@ -5773,46 +5773,46 @@ p1924
 I3
 sVneo a1 radiant
 p1925
-I30
+I0
 sVtarget acquired
 p1926
-I56
+I50
 sVentropy spike
 p1927
-I20
+I16
 sVhigh noon
 p1928
-I6
+I7
 sVgorgon wraith blueprint
 p1929
 I3
 sVfocused acceleration
 p1930
-I7
+I0
 sVzephyr prime set
 p1931
-I64
+I71
 sVgleaming talon
 p1932
-I7
+I9
 sVmeso s2 flawless
 p1933
 I0
 sVaxi a3 intact
 p1934
-I11
+I0
 sVaugur reach
 p1935
-I14
+I17
 sVcyngas stock
 p1936
-I18
+I24
 sVagkuza set
 p1937
-I62
+I0
 sVtrue punishment
 p1938
-I4
+I6
 sVarcane warmth
 p1939
 I2
@@ -5821,16 +5821,16 @@ p1940
 I5
 sVankyros prime blade
 p1941
-I61
+I60
 sVdisarming purity
 p1942
-I15
+I16
 sVneo b5 intact
 p1943
 I5
 sVcoolant leak
 p1944
-I15
+I13
 sVburston prime receiver
 p1945
 I1
@@ -5842,19 +5842,19 @@ p1947
 I0
 sVfragor prime head
 p1948
-I3
+I4
 sVshock trooper
 p1949
-I15
+I21
 sVretribution
 p1950
-I3
+I0
 sVaxi b2 intact
 p1951
-I5
+I0
 sVvalkyr prime chassis
 p1952
-I28
+I30
 sVlarge norg
 p1953
 I3
@@ -5863,58 +5863,58 @@ p1954
 I3
 sVmeso n1 radiant
 p1955
-I35
+I0
 sVsense danger
 p1956
-I3
+I4
 sVvenka prime blades
 p1957
 I2
 sVtelos boltace
 p1958
-I80
+I65
 sVarcane avalon excalibur helmet
 p1959
-I61
+I39
 sVparis prime blueprint
 p1960
-I1
+I2
 sVpeculiar growth
 p1961
-I30
+I31
 sVaxi k2 exceptional
 p1962
 I0
 sVsharpened bullets
 p1963
-I8
+I9
 sVneo m1 radiant
 p1964
-I10
+I0
 sVnegate
 p1965
-I68
+I69
 sVsmall charc eel
 p1966
 I0
 sVplan b
 p1967
-I5
+I0
 sVlatron prime set
 p1968
-I66
+I61
 sVeidolon unairu lens
 p1969
-I82
+I86
 sVlunaro arena scene
 p1970
 I287
 sVember prime systems
 p1971
-I23
+I14
 sVdeft tempo
 p1972
-I7
+I0
 sVaxi v7 flawless
 p1973
 I0
@@ -5923,55 +5923,55 @@ p1974
 I9
 sVatlantis vulcan
 p1975
-I4
+I3
 sVsmite corrupted
 p1976
-I11
+I15
 sVneo s4 intact
 p1977
 I0
 sVshredder
 p1978
-I5
+I0
 sVkronen prime blueprint
 p1979
-I2
+I3
 sVghost
 p1980
-I3
+I0
 sVsapping reach
 p1981
 I0
 sVneo v1 radiant
 p1982
-I75
+I70
 sVcomet rounds
 p1983
 I0
 sVbrain storm (grakata)
 p1984
-I17
+I0
 sVaxi a1 intact
 p1985
 I10
 sVvital systems bypass
 p1986
-I17
+I0
 sVmag prime set
 p1987
-I173
+I171
 sVaxi a1 exceptional
 p1988
 I0
 sVlith k1 radiant
 p1989
-I20
+I0
 sVdual kamas prime blueprint
 p1990
-I2
+I4
 sVorta ayatan sculpture
 p1991
-I14
+I13
 sVcritical delay
 p1992
 I3
@@ -5980,10 +5980,10 @@ p1993
 I0
 sVlua balcony scene
 p1994
-I5
+I8
 sVneo b2 exceptional
 p1995
-I40
+I0
 sVseismic palm
 p1996
 I1
@@ -5992,25 +5992,25 @@ p1997
 I0
 sVspeed holster
 p1998
-I6
+I7
 sVtelos boltor
 p1999
-I59
+I55
 sVcleanse corrupted
 p2000
-I45
+I39
 sVmeso o1 intact
 p2001
-I10
+I0
 sVneo v3 radiant
 p2002
 I0
 sVarcane flux nova helmet
 p2003
-I40
+I44
 sVammo stock
 p2004
-I9
+I11
 sVmeso k1 exceptional
 p2005
 I0
@@ -6019,13 +6019,13 @@ p2006
 I2
 sVorgan shatter
 p2007
-I4
+I3
 sVaxi a3 flawless
 p2008
 I0
 sVaxi k2 intact
 p2009
-I10
+I15
 sVtoxic barrage
 p2010
 I6
@@ -6037,25 +6037,25 @@ p2012
 I0
 sVzephyr prime blueprint
 p2013
-I14
+I18
 sVneo b3 intact
 p2014
-I40
+I33
 sVmeso f3 exceptional
 p2015
 I0
 sVfrost prime set
 p2016
-I168
+I169
 sVfateful truth
 p2017
 I0
 sVhall of malevolence
 p2018
-I20
+I21
 sVsundering strike
 p2019
-I2
+I1
 sVtrinity prime set
 p2020
 I60
@@ -6067,20 +6067,20 @@ p2022
 I0
 sVarcane chlora saryn helmet
 p2023
-I66
+I71
 sVorthos prime handle
 p2024
-I3
+I4
 sVvulkar wraith
 p2025
-I144
+I133
 sVgladiator finesse
 p2026
-I15
+I18
 sVfirestorm
 p2027
 I3
 sVsecura lecta
 p2028
-I48
+I54
 s.

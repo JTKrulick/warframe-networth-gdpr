@@ -17,11 +17,18 @@ def getAllItems(wfmFile='data/item_data.pickle'):
         print count, len(payload)
         value =getOneItemValue(item['url_name'])
         fullDict[item["item_name"].lower()]=value
-        time.sleep(.3)
+        time.sleep(.4)
     pickle.dump( fullDict, open( wfmFile, "wb" ) )
     return fullDict
 
 def getOneItemValue(itemUrlValue=None):
+    volumeRequest =  "https://api.warframe.market/v1/items/"+itemUrlValue+"/statistics"
+    volR = requests.get(volumeRequest)
+    volJson = volR.json()
+    
+    totalVolume = sum([ int(volume['volume']) for volume in volJson['payload']['statistics']['90days']])
+    if totalVolume < 30:
+        return 0
     value = "https://api.warframe.market/v1/items/"+itemUrlValue+"/orders"
     r = requests.get(value)
     json_result = r.json()
