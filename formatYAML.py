@@ -135,6 +135,3 @@ def properYMALFormat (inputFile=None,outputFile=None):
     startingFile.close()
     ymalFileWrite.close()
     return yaml.load(open(outputFile,'r'))
-
-#ymalFile=open("1296211_throtecutter_GDPR_Warframe.ymal")
-#a=yaml.load(ymalFile)
